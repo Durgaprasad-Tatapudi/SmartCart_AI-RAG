@@ -1,0 +1,3411 @@
+[
+  {
+    "id": "acer-aspire-5-i5",
+    "sku": "ELEC-001",
+    "title": "Acer Aspire 5 15.6\"",
+    "name": "Acer Aspire 5 15.6\"",
+    "brand": "Acer",
+    "category": "Electronics",
+    "subcategory": "Laptops",
+    "price": 54990,
+    "oldPrice": 64999,
+    "originalPrice": 64999,
+    "discountPercentage": 15,
+    "rating": 4.5,
+    "reviews": 1420,
+    "reviewCount": 1420,
+    "image": "https://images.unsplash.com/photo-1544731612-de292439cc67?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1544731612-de292439cc67?auto=format&fit=crop&w=900&q=80"
+    ],
+    "badge": "Best match",
+    "specs": [
+      "Intel Core i5 13th Gen",
+      "16GB DDR4 RAM",
+      "512GB NVMe SSD",
+      "15.6\" FHD IPS"
+    ],
+    "description": "High performance laptop with Intel 13th Gen Core i5, 16GB RAM and fast NVMe storage, ideal for coding, web development and multitasking.",
+    "features": [
+      "Intel Core i5 13th Gen",
+      "16GB DDR4 RAM",
+      "512GB NVMe SSD",
+      "15.6\" FHD IPS"
+    ],
+    "specifications": {
+      "Brand": "Acer",
+      "Category": "Laptops",
+      "Model": "Acer Aspire 5 15.6\""
+    },
+    "tags": [
+      "coding",
+      "laptop",
+      "programming",
+      "student",
+      "intel",
+      "16gb ram",
+      "acer"
+    ],
+    "availability": "in_stock",
+    "stock": 40,
+    "deliveryInfo": "Free 2-day delivery"
+  },
+  {
+    "id": "hp-pavilion-15-ryzen5",
+    "sku": "ELEC-002",
+    "title": "HP Pavilion 15 Ryzen 5",
+    "name": "HP Pavilion 15 Ryzen 5",
+    "brand": "HP",
+    "category": "Electronics",
+    "subcategory": "Laptops",
+    "price": 57990,
+    "oldPrice": 68990,
+    "originalPrice": 68990,
+    "discountPercentage": 16,
+    "rating": 4.6,
+    "reviews": 980,
+    "reviewCount": 980,
+    "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?auto=format&fit=crop&w=900&q=80"
+    ],
+    "badge": "Top rated",
+    "specs": [
+      "AMD Ryzen 5 7530U",
+      "16GB DDR4 RAM",
+      "512GB PCIe SSD",
+      "B&O Audio"
+    ],
+    "description": "Premium aluminum finished laptop with fast AMD Ryzen 5, crystal clear B&O sound, and micro-edge display for work and entertainment.",
+    "features": [
+      "AMD Ryzen 5 7530U",
+      "16GB DDR4 RAM",
+      "512GB PCIe SSD",
+      "B&O Audio"
+    ],
+    "specifications": {
+      "Brand": "HP",
+      "Category": "Laptops",
+      "Model": "HP Pavilion 15 Ryzen 5"
+    },
+    "tags": [
+      "laptop",
+      "hp",
+      "ryzen",
+      "coding",
+      "college",
+      "programming",
+      "multitasking"
+    ],
+    "availability": "in_stock",
+    "stock": 40,
+    "deliveryInfo": "Free 2-day delivery"
+  },
+  {
+    "id": "lenovo-ideapad-slim-3",
+    "sku": "ELEC-003",
+    "title": "Lenovo IdeaPad Slim 3 i3",
+    "name": "Lenovo IdeaPad Slim 3 i3",
+    "brand": "Lenovo",
+    "category": "Electronics",
+    "subcategory": "Laptops",
+    "price": 38990,
+    "oldPrice": 46990,
+    "originalPrice": 46990,
+    "discountPercentage": 17,
+    "rating": 4.4,
+    "reviews": 1150,
+    "reviewCount": 1150,
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=900&q=80"
+    ],
+    "badge": "Budget pick",
+    "specs": [
+      "Intel Core i3 12th Gen",
+      "8GB DDR4 RAM",
+      "512GB SSD",
+      "1.63 kg Lightweight"
+    ],
+    "description": "Slim and affordable everyday laptop built for online learning, office work, web browsing, and general use.",
+    "features": [
+      "Intel Core i3 12th Gen",
+      "8GB DDR4 RAM",
+      "512GB SSD",
+      "1.63 kg Lightweight"
+    ],
+    "specifications": {
+      "Brand": "Lenovo",
+      "Category": "Laptops",
+      "Model": "Lenovo IdeaPad Slim 3 i3"
+    },
+    "tags": [
+      "laptop",
+      "budget",
+      "lenovo",
+      "student",
+      "office",
+      "affordable",
+      "under 40000"
+    ],
+    "availability": "in_stock",
+    "stock": 40,
+    "deliveryInfo": "Free 2-day delivery"
+  },
+  {
+    "id": "asus-chromebook-cx1",
+    "sku": "ELEC-004",
+    "title": "ASUS Chromebook CX1",
+    "name": "ASUS Chromebook CX1",
+    "brand": "ASUS",
+    "category": "Electronics",
+    "subcategory": "Laptops",
+    "price": 19999,
+    "oldPrice": 24999,
+    "originalPrice": 24999,
+    "discountPercentage": 20,
+    "rating": 4.2,
+    "reviews": 780,
+    "reviewCount": 780,
+    "image": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=900&q=80"
+    ],
+    "badge": "Budget pick",
+    "specs": [
+      "Intel Celeron N4500",
+      "4GB LPDDR4X RAM",
+      "64GB eMMC Storage",
+      "Chrome OS"
+    ],
+    "description": "Lightweight and fast booting Chromebook with military-grade durability, ideal for students, web browsing, and document editing.",
+    "features": [
+      "Intel Celeron N4500",
+      "4GB LPDDR4X RAM",
+      "64GB eMMC Storage",
+      "Chrome OS"
+    ],
+    "specifications": {
+      "Brand": "ASUS",
+      "Category": "Laptops",
+      "Model": "ASUS Chromebook CX1"
+    },
+    "tags": [
+      "laptop",
+      "asus",
+      "chromebook",
+      "budget",
+      "student",
+      "under 20000"
+    ],
+    "availability": "in_stock",
+    "stock": 40,
+    "deliveryInfo": "Free 2-day delivery"
+  },
+  {
+    "id": "acer-one-14-ryzen3",
+    "sku": "ELEC-005",
+    "title": "Acer One 14 AMD Ryzen 3",
+    "name": "Acer One 14 AMD Ryzen 3",
+    "brand": "Acer",
+    "category": "Electronics",
+    "subcategory": "Laptops",
+    "price": 24990,
+    "oldPrice": 34990,
+    "originalPrice": 34990,
+    "discountPercentage": 29,
+    "rating": 4.3,
+    "reviews": 620,
+    "reviewCount": 620,
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=900&q=80"
+    ],
+    "badge": "Value pick",
+    "specs": [
+      "AMD Ryzen 3 3250U",
+      "8GB DDR4 RAM",
+      "256GB SSD",
+      "14\" HD Display"
+    ],
+    "description": "Reliable everyday laptop with AMD Ryzen 3, 8GB RAM, and fast SSD storage for college assignments and office tasks.",
+    "features": [
+      "AMD Ryzen 3 3250U",
+      "8GB DDR4 RAM",
+      "256GB SSD",
+      "14\" HD Display"
+    ],
+    "specifications": {
+      "Brand": "Acer",
+      "Category": "Laptops",
+      "Model": "Acer One 14 AMD Ryzen 3"
+    },
+    "tags": [
+      "laptop",
+      "acer",
+      "ryzen",
+      "budget",
+      "student",
+      "under 25000"
+    ],
+    "availability": "in_stock",
+    "stock": 40,
+    "deliveryInfo": "Free 2-day delivery"
+  },
+  {
+    "id": "asus-vivobook-16",
+    "sku": "ELEC-006",
+    "title": "ASUS Vivobook 16 OLED",
+    "name": "ASUS Vivobook 16 OLED",
+    "brand": "ASUS",
+    "category": "Electronics",
+    "subcategory": "Laptops",
+    "price": 62990,
+    "oldPrice": 75990,
+    "originalPrice": 75990,
+    "discountPercentage": 17,
+    "rating": 4.7,
+    "reviews": 560,
+    "reviewCount": 560,
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=900&q=80"
+    ],
+    "badge": "Trending",
+    "specs": [
+      "16\" 3.2K OLED 120Hz",
+      "Intel Core i5 13th Gen",
+      "16GB RAM",
+      "512GB SSD"
+    ],
+    "description": "Stunning 16-inch 3.2K 120Hz OLED display with vibrant colors and powerful 13th Gen Intel Core i5 for creative professionals.",
+    "features": [
+      "16\" 3.2K OLED 120Hz",
+      "Intel Core i5 13th Gen",
+      "16GB RAM",
+      "512GB SSD"
+    ],
+    "specifications": {
+      "Brand": "ASUS",
+      "Category": "Laptops",
+      "Model": "ASUS Vivobook 16 OLED"
+    },
+    "tags": [
+      "laptop",
+      "asus",
+      "oled",
+      "creative",
+      "coding",
+      "design",
+      "16gb ram"
+    ],
+    "availability": "in_stock",
+    "stock": 40,
+    "deliveryInfo": "Free 2-day delivery"
+  },
+  {
+    "id": "macbook-air-m2",
+    "sku": "ELEC-007",
+    "title": "Apple MacBook Air 13\" M2",
+    "name": "Apple MacBook Air 13\" M2",
+    "brand": "Apple",
+    "category": "Electronics",
+    "subcategory": "Laptops",
+    "price": 89990,
+    "oldPrice": 99900,
+    "originalPrice": 99900,
+    "discountPercentage": 10,
+    "rating": 4.9,
+    "reviews": 3200,
+    "reviewCount": 3200,
+    "image": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?auto=format&fit=crop&w=900&q=80"
+    ],
+    "badge": "Top rated",
+    "specs": [
+      "Apple M2 chip 8-core CPU",
+      "8GB Unified Memory",
+      "256GB SSD",
+      "Liquid Retina Display"
+    ],
+    "description": "Ultra-thin, featherlight design powered by Apple M2 with up to 18 hours of all-day battery life and silent fanless operation.",
+    "features": [
+      "Apple M2 chip 8-core CPU",
+      "8GB Unified Memory",
+      "256GB SSD",
+      "Liquid Retina Display"
+    ],
+    "specifications": {
+      "Brand": "Apple",
+      "Category": "Laptops",
+      "Model": "Apple MacBook Air 13\" M2"
+    },
+    "tags": [
+      "laptop",
+      "apple",
+      "macbook",
+      "m2",
+      "premium",
+      "battery",
+      "lightweight"
+    ],
+    "availability": "in_stock",
+    "stock": 40,
+    "deliveryInfo": "Free 2-day delivery"
+  },
+  {
+    "id": "dell-inspiron-3520",
+    "sku": "ELEC-008",
+    "title": "Dell Inspiron 3520 i5",
+    "name": "Dell Inspiron 3520 i5",
+    "brand": "Dell",
+    "category": "Electronics",
+    "subcategory": "Laptops",
+    "price": 49990,
+    "oldPrice": 61990,
+    "originalPrice": 61990,
+    "discountPercentage": 19,
+    "rating": 4.3,
+    "reviews": 830,
+    "reviewCount": 830,
+    "image": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=900&q=80"
+    ],
+    "badge": null,
+    "specs": [
+      "Intel Core i5 12th Gen",
+      "16GB RAM",
+      "512GB SSD",
+      "120Hz Display"
+    ],
+    "description": "Dependable workstation laptop with smooth 120Hz screen, lift hinge for ergonomic typing, and express charge capability.",
+    "features": [
+      "Intel Core i5 12th Gen",
+      "16GB RAM",
+      "512GB SSD",
+      "120Hz Display"
+    ],
+    "specifications": {
+      "Brand": "Dell",
+      "Category": "Laptops",
+      "Model": "Dell Inspiron 3520 i5"
+    },
+    "tags": [
+      "laptop",
+      "dell",
+      "work",
+      "coding",
+      "16gb ram",
+      "student",
+      "under 50000"
+    ],
+    "availability": "in_stock",
+    "stock": 40,
+    "deliveryInfo": "Free 2-day delivery"
+  },
+  {
+    "id": "samsung-galaxy-m34",
+    "sku": "ELEC-009",
+    "title": "Samsung Galaxy M34 5G",
+    "name": "Samsung Galaxy M34 5G",
+    "brand": "Samsung",
+    "category": "Electronics",
+    "subcategory": "Smartphones",
+    "price": 16999,
+    "oldPrice": 24499,
+    "originalPrice": 24499,
+    "discountPercentage": 31,
+    "rating": 4.3,
+    "reviews": 2100,
+    "reviewCount": 2100,
+    "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=900&q=80"
+    ],
+    "badge": "Best value",
+    "specs": [
+      "6000mAh Monster Battery",
+      "50MP No Shake Cam",
+      "120Hz sAMOLED Display",
+      "6GB RAM / 128GB"
+    ],
+    "description": "Massive 6000mAh battery smartphone with 120Hz Super AMOLED display and 50MP OIS camera for blur-free photos and videos.",
+    "features": [
+      "6000mAh Monster Battery",
+      "50MP No Shake Cam",
+      "120Hz sAMOLED Display",
+      "6GB RAM / 128GB"
+    ],
+    "specifications": {
+      "Brand": "Samsung",
+      "Category": "Smartphones",
+      "Model": "Samsung Galaxy M34 5G"
+    },
+    "tags": [
+      "phone",
+      "smartphone",
+      "samsung",
+      "5g",
+      "battery",
+      "amoled",
+      "under 20000"
+    ],
+    "availability": "in_stock",
+    "stock": 40,
+    "deliveryInfo": "Free 2-day delivery"
+  },
+  {
+    "id": "oneplus-nord-ce3-5g",
+    "sku": "ELEC-010",
+    "title": "OnePlus Nord CE 3 5G",
+    "name": "OnePlus Nord CE 3 5G",
+    "brand": "OnePlus",
+    "category": "Electronics",
+    "subcategory": "Smartphones",
+    "price": 24999,
+    "oldPrice": 28999,
+    "originalPrice": 28999,
+    "discountPercentage": 14,
+    "rating": 4.5,
+    "reviews": 1850,
+    "reviewCount": 1850,
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+    ],
+    "badge": "Top rated",
+    "specs": [
+      "Snapdragon 782G",
+      "80W SUPERVOOC Charge",
+      "50MP Sony IMX890 OIS",
+      "8GB RAM / 128GB"
+    ],
+    "description": "Smooth and snappy 5G phone with Snapdragon 782G, flagship Sony IMX890 camera sensor, and lightning-fast 80W wired charging.",
+    "features": [
+      "Snapdragon 782G",
+      "80W SUPERVOOC Charge",
+      "50MP Sony IMX890 OIS",
+      "8GB RAM / 128GB"
+    ],
+    "specifications": {
+      "Brand": "OnePlus",
+      "Category": "Smartphones",
+      "Model": "OnePlus Nord CE 3 5G"
+    },
+    "tags": [
+      "phone",
+      "smartphone",
+      "oneplus",
+      "fast charging",
+      "camera",
+      "sony sensor",
+      "under 30000"
+    ],
+    "availability": "in_stock",
+    "stock": 40,
+    "deliveryInfo": "Free 2-day delivery"
+  },
+  {
+    "id": "redmi-note-13-pro",
+    "sku": "ELEC-011",
+    "title": "Redmi Note 13 Pro 5G",
+    "name": "Redmi Note 13 Pro 5G",
+    "brand": "Xiaomi",
+    "category": "Electronics",
+    "subcategory": "Smartphones",
+    "price": 25999,
+    "oldPrice": 28999,
+    "originalPrice": 28999,
+    "discountPercentage": 10,
+    "rating": 4.4,
+    "reviews": 1600,
+    "reviewCount": 1600,
+    "image": "https://images.unsplash.com/photo-1567581935884-3349723552ca?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1567581935884-3349723552ca?auto=format&fit=crop&w=900&q=80"
+    ],
+    "badge": null,
+    "specs": [
+      "200MP Ultra-Clear OIS Camera",
+      "1.5K 120Hz Curved AMOLED",
+      "Snapdragon 7s Gen 2",
+      "67W Turbo Charge"
+    ],
+    "description": "Stunning 200MP camera phone with curved 1.5K AMOLED display, IP54 dust and splash protection, and 67W rapid charging.",
+    "features": [
+      "200MP Ultra-Clear OIS Camera",
+      "1.5K 120Hz Curved AMOLED",
+      "Snapdragon 7s Gen 2",
+      "67W Turbo Charge"
+    ],
+    "specifications": {
+      "Brand": "Xiaomi",
+      "Category": "Smartphones",
+      "Model": "Redmi Note 13 Pro 5G"
+    },
+    "tags": [
+      "phone",
+      "smartphone",
+      "redmi",
+      "200mp camera",
+      "5g",
+      "xiaomi",
+      "under 30000"
+    ],
+    "availability": "in_stock",
+    "stock": 40,
+    "deliveryInfo": "Free 2-day delivery"
+  },
+  {
+    "id": "realme-narzo-60x",
+    "sku": "ELEC-012",
+    "title": "Realme Narzo 60x 5G",
+    "name": "Realme Narzo 60x 5G",
+    "brand": "Realme",
+    "category": "Electronics",
+    "subcategory": "Smartphones",
+    "price": 12999,
+    "oldPrice": 14999,
+    "originalPrice": 14999,
+    "discountPercentage": 13,
+    "rating": 4.2,
+    "reviews": 3400,
+    "reviewCount": 3400,
+    "image": "https://images.unsplash.com/photo-1580910051074-3eb694886505?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1580910051074-3eb694886505?auto=format&fit=crop&w=900&q=80"
+    ],
+    "badge": "Budget pick",
+    "specs": [
+      "Dimensity 6100+ 5G",
+      "50MP AI Camera",
+      "33W SUPERVOOC",
+      "5000mAh Battery"
+    ],
+    "description": "Affordable 5G speed with ultra-slim design, dynamic RAM expansion, and durable battery performance.",
+    "features": [
+      "Dimensity 6100+ 5G",
+      "50MP AI Camera",
+      "33W SUPERVOOC",
+      "5000mAh Battery"
+    ],
+    "specifications": {
+      "Brand": "Realme",
+      "Category": "Smartphones",
+      "Model": "Realme Narzo 60x 5G"
+    },
+    "tags": [
+      "phone",
+      "smartphone",
+      "realme",
+      "budget",
+      "5g",
+      "under 15000"
+    ],
+    "availability": "in_stock",
+    "stock": 40,
+    "deliveryInfo": "Free 2-day delivery"
+  },
+  {
+    "id": "aerobuds-pro",
+    "sku": "ELEC-013",
+    "title": "AeroBuds Pro True Wireless",
+    "name": "AeroBuds Pro True Wireless",
+    "brand": "Aero",
+    "category": "Electronics",
+    "subcategory": "Headphones",
+    "price": 4499,
+    "oldPrice": 5999,
+    "originalPrice": 5999,
+    "discountPercentage": 25,
+    "rating": 4.7,
+    "reviews": 1284,
+    "reviewCount": 1284,
+    "image": "https://images.unsplash.com/photo-1606220945770-b5b6c2c55bf1?auto=format&fit=crop&w=900&q=85",
+    "images": [
+      "https://images.unsplash.com/photo-1606220945770-b5b6c2c55bf1?auto=format&fit=crop&w=900&q=85"
+    ],
+    "badge": "Best match",
+    "specs": [
+      "Active noise cancellation",
+      "32 hr battery",
+      "IPX4 sweat resistant",
+      "Quad mic AI noise reduction"
+    ],
+    "description": "Premium wireless earbuds with hybrid ANC up to 35dB, high-fidelity titanium drivers, and ultra-clear microphone calls.",
+    "features": [
+      "Active noise cancellation",
+      "32 hr battery",
+      "IPX4 sweat resistant",
+      "Quad mic AI noise reduction"
+    ],
+    "specifications": {
+      "Brand": "Aero",
+      "Category": "Headphones",
+      "Model": "AeroBuds Pro True Wireless"
+    },
+    "tags": [
+      "audio",
+      "earbuds",
+      "anc",
+      "wireless",
+      "headphones",
+      "bluetooth",
+      "under 5000"
+    ],
+    "availability": "in_stock",
+    "stock": 40,
+    "deliveryInfo": "Free 2-day delivery"
+  },
+  {
+    "id": "sonic-beam",
+    "sku": "ELEC-014",
+    "title": "SonicBeam Wireless Over-Ear",
+    "name": "SonicBeam Wireless Over-Ear",
+    "brand": "SonicBeam",
+    "category": "Electronics",
+    "subcategory": "Headphones",
+    "price": 3299,
+    "oldPrice": 3999,
+    "originalPrice": 3999,
+    "discountPercentage": 18,
+    "rating": 4.5,
+    "reviews": 892,
+    "reviewCount": 892,
+    "image": "https://images.unsplash.com/photo-1588423771073-b8903fbb85b5?auto=format&fit=crop&w=900&q=85",
+    "images": [
+      "https://images.unsplash.com/photo-1588423771073-b8903fbb85b5?auto=format&fit=crop&w=900&q=85"
+    ],
+    "badge": null,
+    "specs": [
+      "Hybrid ANC",
+      "40 hr battery",
+      "Multipoint connection",
+      "Memory foam cushions"
+    ],
+    "description": "Ergonomic over-ear headphones with deep bass response, multipoint device pairing, and memory foam comfort.",
+    "features": [
+      "Hybrid ANC",
+      "40 hr battery",
+      "Multipoint connection",
+      "Memory foam cushions"
+    ],
+    "specifications": {
+      "Brand": "SonicBeam",
+      "Category": "Headphones",
+      "Model": "SonicBeam Wireless Over-Ear"
+    },
+    "tags": [
+      "audio",
+      "headphones",
+      "over ear",
+      "wireless",
+      "anc",
+      "bass",
+      "battery"
+    ],
+    "availability": "in_stock",
+    "stock": 40,
+    "deliveryInfo": "Free 2-day delivery"
+  },
+  {
+    "id": "sony-wh-1000xm4",
+    "sku": "ELEC-015",
+    "title": "Sony WH-1000XM4 Wireless ANC",
+    "name": "Sony WH-1000XM4 Wireless ANC",
+    "brand": "Sony",
+    "category": "Electronics",
+    "subcategory": "Headphones",
+    "price": 19990,
+    "oldPrice": 29990,
+    "originalPrice": 29990,
+    "discountPercentage": 33,
+    "rating": 4.8,
+    "reviews": 5400,
+    "reviewCount": 5400,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80"
+    ],
+    "badge": "Top rated",
+    "specs": [
+      "Industry-leading ANC",
+      "30-hr battery",
+      "LDAC Hi-Res Audio",
+      "Speak-to-Chat"
+    ],
+    "description": "Industry-standard noise cancelling over-ear headphones with premium HD noise cancelling processor QN1.",
+    "features": [
+      "Industry-leading ANC",
+      "30-hr battery",
+      "LDAC Hi-Res Audio",
+      "Speak-to-Chat"
+    ],
+    "specifications": {
+      "Brand": "Sony",
+      "Category": "Headphones",
+      "Model": "Sony WH-1000XM4 Wireless ANC"
+    },
+    "tags": [
+      "audio",
+      "sony",
+      "headphones",
+      "anc",
+      "premium",
+      "hi-res",
+      "noise cancelling"
+    ],
+    "availability": "in_stock",
+    "stock": 40,
+    "deliveryInfo": "Free 2-day delivery"
+  },
+  {
+    "id": "boat-airdopes-141",
+    "sku": "ELEC-016",
+    "title": "boAt Airdopes 141 Bluetooth TWS",
+    "name": "boAt Airdopes 141 Bluetooth TWS",
+    "brand": "boAt",
+    "category": "Electronics",
+    "subcategory": "Headphones",
+    "price": 1299,
+    "oldPrice": 4490,
+    "originalPrice": 4490,
+    "discountPercentage": 71,
+    "rating": 4.1,
+    "reviews": 12500,
+    "reviewCount": 12500,
+    "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&w=900&q=80"
+    ],
+    "badge": "Budget pick",
+    "specs": [
+      "42H Playtime",
+      "Low Latency Beast Mode",
+      "ENx Tech Mic",
+      "IPX4 Sweat Resistance"
+    ],
+    "description": "Budget-friendly true wireless earbuds with punchy bass, ENx environmental noise cancellation for calls.",
+    "features": [
+      "42H Playtime",
+      "Low Latency Beast Mode",
+      "ENx Tech Mic",
+      "IPX4 Sweat Resistance"
+    ],
+    "specifications": {
+      "Brand": "boAt",
+      "Category": "Headphones",
+      "Model": "boAt Airdopes 141 Bluetooth TWS"
+    },
+    "tags": [
+      "audio",
+      "boat",
+      "earbuds",
+      "budget",
+      "under 1500",
+      "tws",
+      "wireless"
+    ],
+    "availability": "in_stock",
+    "stock": 40,
+    "deliveryInfo": "Free 2-day delivery"
+  },
+  {
+    "id": "jbl-tune-760nc",
+    "sku": "ELEC-017",
+    "title": "JBL Tune 760NC Wireless Headphones",
+    "name": "JBL Tune 760NC Wireless Headphones",
+    "brand": "JBL",
+    "category": "Electronics",
+    "subcategory": "Headphones",
+    "price": 5499,
+    "oldPrice": 7999,
+    "originalPrice": 7999,
+    "discountPercentage": 31,
+    "rating": 4.4,
+    "reviews": 2100,
+    "reviewCount": 2100,
+    "image": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=900&q=80"
+    ],
+    "badge": null,
+    "specs": [
+      "Active Noise Cancelling",
+      "JBL Pure Bass Sound",
+      "35H Battery with ANC",
+      "Fast Pair"
+    ],
+    "description": "Wireless over-ear headphones with active noise cancellation and JBL Pure Bass sound for immersive audio.",
+    "features": [
+      "Active Noise Cancelling",
+      "JBL Pure Bass Sound",
+      "35H Battery with ANC",
+      "Fast Pair"
+    ],
+    "specifications": {
+      "Brand": "JBL",
+      "Category": "Headphones",
+      "Model": "JBL Tune 760NC Wireless Headphones"
+    },
+    "tags": [
+      "audio",
+      "jbl",
+      "headphones",
+      "anc",
+      "bass",
+      "wireless"
+    ],
+    "availability": "in_stock",
+    "stock": 40,
+    "deliveryInfo": "Free 2-day delivery"
+  },
+  {
+    "id": "pixelview-27",
+    "sku": "ELEC-018",
+    "title": "PixelView 27 4K IPS Monitor",
+    "name": "PixelView 27 4K IPS Monitor",
+    "brand": "PixelView",
+    "category": "Electronics",
+    "subcategory": "Monitors",
+    "price": 28999,
+    "oldPrice": 33999,
+    "originalPrice": 33999,
+    "discountPercentage": 15,
+    "rating": 4.8,
+    "reviews": 456,
+    "reviewCount": 456,
+    "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=900&q=85",
+    "images": [
+      "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=900&q=85"
+    ],
+    "badge": "Top rated",
+    "specs": [
+      "4K UHD IPS Panel",
+      "144Hz refresh rate",
+      "USB-C 90W Power Delivery",
+      "HDR400"
+    ],
+    "description": "Crisp 27-inch 4K UHD professional monitor with 144Hz refresh rate, HDR400, and single-cable USB-C 90W laptop charging.",
+    "features": [
+      "4K UHD IPS Panel",
+      "144Hz refresh rate",
+      "USB-C 90W Power Delivery",
+      "HDR400"
+    ],
+    "specifications": {
+      "Brand": "PixelView",
+      "Category": "Monitors",
+      "Model": "PixelView 27 4K IPS Monitor"
+    },
+    "tags": [
+      "monitor",
+      "4k",
+      "ips",
+      "144hz",
+      "usb-c",
+      "coding",
+      "productivity",
+      "office"
+    ],
+    "availability": "in_stock",
+    "stock": 40,
+    "deliveryInfo": "Free 2-day delivery"
+  },
+  {
+    "id": "lg-ultragear-24",
+    "sku": "ELEC-019",
+    "title": "LG UltraGear 24\" FHD Gaming Monitor",
+    "name": "LG UltraGear 24\" FHD Gaming Monitor",
+    "brand": "LG",
+    "category": "Electronics",
+    "subcategory": "Monitors",
+    "price": 13499,
+    "oldPrice": 18000,
+    "originalPrice": 18000,
+    "discountPercentage": 25,
+    "rating": 4.6,
+    "reviews": 1890,
+    "reviewCount": 1890,
+    "image": "https://images.unsplash.com/photo-1551645120-d70bfe84c826?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1551645120-d70bfe84c826?auto=format&fit=crop&w=900&q=80"
+    ],
+    "badge": "Trending",
+    "specs": [
+      "144Hz Refresh Rate",
+      "1ms MBR",
+      "AMD FreeSync Premium",
+      "HDR10 IPS"
+    ],
+    "description": "Fast response gaming monitor with 144Hz refresh rate and FreeSync for tear-free gaming and smooth scrolling.",
+    "features": [
+      "144Hz Refresh Rate",
+      "1ms MBR",
+      "AMD FreeSync Premium",
+      "HDR10 IPS"
+    ],
+    "specifications": {
+      "Brand": "LG",
+      "Category": "Monitors",
+      "Model": "LG UltraGear 24\" FHD Gaming Monitor"
+    },
+    "tags": [
+      "monitor",
+      "gaming",
+      "144hz",
+      "lg",
+      "ips",
+      "under 15000"
+    ],
+    "availability": "in_stock",
+    "stock": 40,
+    "deliveryInfo": "Free 2-day delivery"
+  },
+  {
+    "id": "samsung-curved-32",
+    "sku": "ELEC-020",
+    "title": "Samsung 32\" Curved 4K Monitor",
+    "name": "Samsung 32\" Curved 4K Monitor",
+    "brand": "Samsung",
+    "category": "Electronics",
+    "subcategory": "Monitors",
+    "price": 31999,
+    "oldPrice": 39990,
+    "originalPrice": 39990,
+    "discountPercentage": 20,
+    "rating": 4.7,
+    "reviews": 720,
+    "reviewCount": 720,
+    "image": "https://images.unsplash.com/photo-1547082299-de196ea013d6?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1547082299-de196ea013d6?auto=format&fit=crop&w=900&q=80"
+    ],
+    "badge": null,
+    "specs": [
+      "1500R Curved Screen",
+      "4K UHD Resolution",
+      "1 Billion Colors",
+      "Eye Saver Mode"
+    ],
+    "description": "Immersive 32-inch curved 4K monitor providing panoramic viewing comfort for multitasking and content editing.",
+    "features": [
+      "1500R Curved Screen",
+      "4K UHD Resolution",
+      "1 Billion Colors",
+      "Eye Saver Mode"
+    ],
+    "specifications": {
+      "Brand": "Samsung",
+      "Category": "Monitors",
+      "Model": "Samsung 32\" Curved 4K Monitor"
+    },
+    "tags": [
+      "monitor",
+      "samsung",
+      "4k",
+      "curved",
+      "productivity",
+      "design"
+    ],
+    "availability": "in_stock",
+    "stock": 40,
+    "deliveryInfo": "Free 2-day delivery"
+  },
+  {
+    "id": "zenbook-air",
+    "sku": "ELEC-021",
+    "title": "ZenBook Air 14 Slim Ultrabook",
+    "name": "ZenBook Air 14 Slim Ultrabook",
+    "brand": "ZenBook",
+    "category": "Electronics",
+    "subcategory": "Laptops",
+    "price": 74999,
+    "oldPrice": 82999,
+    "originalPrice": 82999,
+    "discountPercentage": 10,
+    "rating": 4.6,
+    "reviews": 671,
+    "reviewCount": 671,
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=900&q=85",
+    "images": [
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=900&q=85"
+    ],
+    "badge": "Trending",
+    "specs": [
+      "Intel Core Ultra 5",
+      "16GB LPDDR5X RAM",
+      "512GB PCIe SSD",
+      "1.2 kg Metal Body"
+    ],
+    "description": "Ultra-lightweight aluminum notebook featuring Intel Core Ultra AI processor, stunning 2.8K OLED display, and 15+ hours battery.",
+    "features": [
+      "Intel Core Ultra 5",
+      "16GB LPDDR5X RAM",
+      "512GB PCIe SSD",
+      "1.2 kg Metal Body"
+    ],
+    "specifications": {
+      "Brand": "ZenBook",
+      "Category": "Laptops",
+      "Model": "ZenBook Air 14 Slim Ultrabook"
+    },
+    "tags": [
+      "laptop",
+      "ultrabook",
+      "intel ultra",
+      "lightweight",
+      "coding",
+      "student",
+      "portable"
+    ],
+    "availability": "in_stock",
+    "stock": 40,
+    "deliveryInfo": "Free 2-day delivery"
+  },
+  {
+    "id": "ipad-10th-gen",
+    "sku": "ELEC-022",
+    "title": "Apple iPad 10th Gen 10.9\"",
+    "name": "Apple iPad 10th Gen 10.9\"",
+    "brand": "Apple",
+    "category": "Electronics",
+    "subcategory": "Tablets",
+    "price": 34990,
+    "oldPrice": 39900,
+    "originalPrice": 39900,
+    "discountPercentage": 12,
+    "rating": 4.7,
+    "reviews": 3800,
+    "reviewCount": 3800,
+    "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=900&q=80"
+    ],
+    "badge": "Top rated",
+    "specs": [
+      "A14 Bionic chip",
+      "10.9\" Liquid Retina Display",
+      "USB-C Connectivity",
+      "Landscape 12MP Cam"
+    ],
+    "description": "All-screen design iPad with 10.9-inch Liquid Retina display, fast A14 Bionic chip, and Apple Pencil support.",
+    "features": [
+      "A14 Bionic chip",
+      "10.9\" Liquid Retina Display",
+      "USB-C Connectivity",
+      "Landscape 12MP Cam"
+    ],
+    "specifications": {
+      "Brand": "Apple",
+      "Category": "Tablets",
+      "Model": "Apple iPad 10th Gen 10.9\""
+    },
+    "tags": [
+      "tablet",
+      "ipad",
+      "apple",
+      "student",
+      "drawing",
+      "entertainment",
+      "under 40000"
+    ],
+    "availability": "in_stock",
+    "stock": 40,
+    "deliveryInfo": "Free 2-day delivery"
+  },
+  {
+    "id": "samsung-galaxy-tab-s9-fe",
+    "sku": "ELEC-023",
+    "title": "Samsung Galaxy Tab S9 FE",
+    "name": "Samsung Galaxy Tab S9 FE",
+    "brand": "Samsung",
+    "category": "Electronics",
+    "subcategory": "Tablets",
+    "price": 36999,
+    "oldPrice": 44999,
+    "originalPrice": 44999,
+    "discountPercentage": 18,
+    "rating": 4.6,
+    "reviews": 1200,
+    "reviewCount": 1200,
+    "image": "https://images.unsplash.com/photo-1561154464-82e9adf32764?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1561154464-82e9adf32764?auto=format&fit=crop&w=900&q=80"
+    ],
+    "badge": null,
+    "specs": [
+      "IP68 Water & Dust Resistant",
+      "S-Pen Included in Box",
+      "10.9\" 90Hz Display",
+      "8000mAh Battery"
+    ],
+    "description": "Durable IP68-rated Android tablet equipped with included S-Pen stylus for digital note-taking, sketching, and study.",
+    "features": [
+      "IP68 Water & Dust Resistant",
+      "S-Pen Included in Box",
+      "10.9\" 90Hz Display",
+      "8000mAh Battery"
+    ],
+    "specifications": {
+      "Brand": "Samsung",
+      "Category": "Tablets",
+      "Model": "Samsung Galaxy Tab S9 FE"
+    },
+    "tags": [
+      "tablet",
+      "samsung",
+      "spen",
+      "android",
+      "notes",
+      "student",
+      "waterproof"
+    ],
+    "availability": "in_stock",
+    "stock": 40,
+    "deliveryInfo": "Free 2-day delivery"
+  },
+  {
+    "id": "bose-quietcomfort-45",
+    "sku": "ELEC-024",
+    "title": "Bose QuietComfort 45 Bluetooth Headphones",
+    "name": "Bose QuietComfort 45 Bluetooth Headphones",
+    "brand": "Bose",
+    "category": "Electronics",
+    "subcategory": "Headphones",
+    "price": 23900,
+    "oldPrice": 29900,
+    "originalPrice": 29900,
+    "discountPercentage": 20,
+    "rating": 4.8,
+    "reviews": 1950,
+    "reviewCount": 1950,
+    "image": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=900&q=80"
+    ],
+    "badge": "Top rated",
+    "specs": [
+      "Acoustic Noise Cancelling",
+      "TriPort Acoustic Architecture",
+      "24 Hours Battery",
+      "Quiet & Aware Modes"
+    ],
+    "description": "Legendary Bose noise cancellation with plush synthetic leather ear cushions for supreme travel comfort.",
+    "features": [
+      "Acoustic Noise Cancelling",
+      "TriPort Acoustic Architecture",
+      "24 Hours Battery",
+      "Quiet & Aware Modes"
+    ],
+    "specifications": {
+      "Brand": "Bose",
+      "Category": "Headphones",
+      "Model": "Bose QuietComfort 45 Bluetooth Headphones"
+    },
+    "tags": [
+      "audio",
+      "bose",
+      "headphones",
+      "anc",
+      "travel",
+      "comfortable",
+      "premium"
+    ],
+    "availability": "in_stock",
+    "stock": 40,
+    "deliveryInfo": "Free 2-day delivery"
+  },
+  {
+    "id": "marshall-emberton-ii",
+    "sku": "ELEC-025",
+    "title": "Marshall Emberton II Portable Bluetooth Speaker",
+    "name": "Marshall Emberton II Portable Bluetooth Speaker",
+    "brand": "Marshall",
+    "category": "Electronics",
+    "subcategory": "Audio",
+    "price": 14999,
+    "oldPrice": 19999,
+    "originalPrice": 19999,
+    "discountPercentage": 25,
+    "rating": 4.7,
+    "reviews": 850,
+    "reviewCount": 850,
+    "image": "https://images.unsplash.com/photo-1545454675-3531b543be5d?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545454675-3531b543be5d?auto=format&fit=crop&w=900&q=80"
+    ],
+    "badge": "Trending",
+    "specs": [
+      "30+ Hours Portable Playtime",
+      "IP67 Dust & Water Resistant",
+      "True Stereophonic 360° Sound",
+      "Stack Mode"
+    ],
+    "description": "Iconic vintage-inspired portable speaker delivering heavy 360-degree sound with rugged IP67 weather resistance.",
+    "features": [
+      "30+ Hours Portable Playtime",
+      "IP67 Dust & Water Resistant",
+      "True Stereophonic 360° Sound",
+      "Stack Mode"
+    ],
+    "specifications": {
+      "Brand": "Marshall",
+      "Category": "Audio",
+      "Model": "Marshall Emberton II Portable Bluetooth Speaker"
+    },
+    "tags": [
+      "audio",
+      "speaker",
+      "bluetooth",
+      "marshall",
+      "vintage",
+      "portable",
+      "battery"
+    ],
+    "availability": "in_stock",
+    "stock": 40,
+    "deliveryInfo": "Free 2-day delivery"
+  },
+  {
+    "id": "anker-soundcore-motion-plus",
+    "sku": "ELEC-026",
+    "title": "Anker Soundcore Motion+ Hi-Res Speaker",
+    "name": "Anker Soundcore Motion+ Hi-Res Speaker",
+    "brand": "Anker",
+    "category": "Electronics",
+    "subcategory": "Audio",
+    "price": 6999,
+    "oldPrice": 9999,
+    "originalPrice": 9999,
+    "discountPercentage": 30,
+    "rating": 4.6,
+    "reviews": 2100,
+    "reviewCount": 2100,
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&w=900&q=80"
+    ],
+    "badge": "Best value",
+    "specs": [
+      "30W Hi-Res Audio",
+      "Qualcomm aptX",
+      "Custom EQ App",
+      "12-Hour Playtime"
+    ],
+    "description": "High-fidelity 30W portable Bluetooth speaker with ultra-wide frequency range and aptX lossless audio.",
+    "features": [
+      "30W Hi-Res Audio",
+      "Qualcomm aptX",
+      "Custom EQ App",
+      "12-Hour Playtime"
+    ],
+    "specifications": {
+      "Brand": "Anker",
+      "Category": "Audio",
+      "Model": "Anker Soundcore Motion+ Hi-Res Speaker"
+    },
+    "tags": [
+      "audio",
+      "speaker",
+      "anker",
+      "hi-res",
+      "bluetooth",
+      "bass",
+      "under 10000"
+    ],
+    "availability": "in_stock",
+    "stock": 40,
+    "deliveryInfo": "Free 2-day delivery"
+  },
+  {
+    "id": "logitech-mx-master-3s",
+    "sku": "ELEC-027",
+    "title": "Logitech MX Master 3S Wireless Mouse",
+    "name": "Logitech MX Master 3S Wireless Mouse",
+    "brand": "Logitech",
+    "category": "Electronics",
+    "subcategory": "Monitors",
+    "price": 8995,
+    "oldPrice": 10995,
+    "originalPrice": 10995,
+    "discountPercentage": 18,
+    "rating": 4.9,
+    "reviews": 4200,
+    "reviewCount": 4200,
+    "image": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&w=900&q=80"
+    ],
+    "badge": "Top rated",
+    "specs": [
+      "8K DPI Any-Surface Tracking",
+      "Quiet Click 90% Less Noise",
+      "MagSpeed Electromagnetic Scroll",
+      "USB-C Quick Charge"
+    ],
+    "description": "The ultimate ergonomic precision productivity mouse designed for coders, designers, and power users.",
+    "features": [
+      "8K DPI Any-Surface Tracking",
+      "Quiet Click 90% Less Noise",
+      "MagSpeed Electromagnetic Scroll",
+      "USB-C Quick Charge"
+    ],
+    "specifications": {
+      "Brand": "Logitech",
+      "Category": "Monitors",
+      "Model": "Logitech MX Master 3S Wireless Mouse"
+    },
+    "tags": [
+      "mouse",
+      "logitech",
+      "coding",
+      "ergonomic",
+      "productivity",
+      "office",
+      "accessory"
+    ],
+    "availability": "in_stock",
+    "stock": 40,
+    "deliveryInfo": "Free 2-day delivery"
+  },
+  {
+    "id": "allen-solly-shirt-white",
+    "sku": "FASH-028",
+    "title": "Allen Solly Men's Slim Fit Cotton Shirt",
+    "name": "Allen Solly Men's Slim Fit Cotton Shirt",
+    "brand": "Allen Solly",
+    "category": "Fashion",
+    "subcategory": "Shirts",
+    "price": 1499,
+    "oldPrice": 2299,
+    "originalPrice": 2299,
+    "discountPercentage": 35,
+    "rating": 4.4,
+    "reviews": 1120,
+    "reviewCount": 1120,
+    "image": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?auto=format&fit=crop&w=900&q=80"
+    ],
+    "badge": "Best match",
+    "specs": [
+      "100% Breathable Cotton",
+      "Slim Fit Cut",
+      "Spread Collar",
+      "Machine Washable"
+    ],
+    "description": "Crisp white formal and smart-casual shirt crafted from 100% premium combed cotton for breathable comfort all day.",
+    "features": [
+      "100% Breathable Cotton",
+      "Slim Fit Cut",
+      "Spread Collar",
+      "Machine Washable"
+    ],
+    "specifications": {
+      "Brand": "Allen Solly",
+      "Category": "Shirts",
+      "Material": "100% Breathable Cotton"
+    },
+    "tags": [
+      "fashion",
+      "shirt",
+      "formal",
+      "cotton",
+      "white",
+      "office",
+      "men"
+    ],
+    "availability": "in_stock",
+    "stock": 60,
+    "deliveryInfo": "Free 2-day delivery"
+  },
+  {
+    "id": "levis-511-slim-jeans",
+    "sku": "FASH-029",
+    "title": "Levi's Men's 511 Slim Fit Jeans",
+    "name": "Levi's Men's 511 Slim Fit Jeans",
+    "brand": "Levi's",
+    "category": "Fashion",
+    "subcategory": "Jeans",
+    "price": 2799,
+    "oldPrice": 4199,
+    "originalPrice": 4199,
+    "discountPercentage": 33,
+    "rating": 4.6,
+    "reviews": 2450,
+    "reviewCount": 2450,
+    "image": "https://images.unsplash.com/photo-1542272604-780c96856592?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-780c96856592?auto=format&fit=crop&w=900&q=80"
+    ],
+    "badge": "Top rated",
+    "specs": [
+      "99% Cotton 1% Elastane",
+      "Slim Through Hip and Thigh",
+      "Zip Fly with Button",
+      "Signature 5-Pocket"
+    ],
+    "description": "Modern slim-fit jeans with room to move, cut from premium stretch denim with authentic dark wash.",
+    "features": [
+      "99% Cotton 1% Elastane",
+      "Slim Through Hip and Thigh",
+      "Zip Fly with Button",
+      "Signature 5-Pocket"
+    ],
+    "specifications": {
+      "Brand": "Levi's",
+      "Category": "Jeans",
+      "Material": "99% Cotton 1% Elastane"
+    },
+    "tags": [
+      "fashion",
+      "jeans",
+      "denim",
+      "levis",
+      "slim fit",
+      "casual",
+      "under 3000"
+    ],
+    "availability": "in_stock",
+    "stock": 60,
+    "deliveryInfo": "Free 2-day delivery"
+  },
+  {
+    "id": "us-polo-classic-polo-tee",
+    "sku": "FASH-030",
+    "title": "U.S. Polo Assn. Classic Pique Polo",
+    "name": "U.S. Polo Assn. Classic Pique Polo",
+    "brand": "U.S. Polo Assn.",
+    "category": "Fashion",
+    "subcategory": "T-Shirts",
+    "price": 1199,
+    "oldPrice": 1899,
+    "originalPrice": 1899,
+    "discountPercentage": 37,
+    "rating": 4.3,
+    "reviews": 1650,
+    "reviewCount": 1650,
+    "image": "https://images.unsplash.com/photo-1581655353564-df123a1eb820?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1581655353564-df123a1eb820?auto=format&fit=crop&w=900&q=80"
+    ],
+    "badge": null,
+    "specs": [
+      "100% Pique Cotton",
+      "Ribbed Collar and Cuffs",
+      "Embroidered Chest Logo",
+      "Regular Fit"
+    ],
+    "description": "Classic breathable cotton pique polo t-shirt perfect for casual weekends and smart Friday office wear.",
+    "features": [
+      "100% Pique Cotton",
+      "Ribbed Collar and Cuffs",
+      "Embroidered Chest Logo",
+      "Regular Fit"
+    ],
+    "specifications": {
+      "Brand": "U.S. Polo Assn.",
+      "Category": "T-Shirts",
+      "Material": "100% Pique Cotton"
+    },
+    "tags": [
+      "fashion",
+      "tshirt",
+      "polo",
+      "casual",
+      "navy",
+      "summer",
+      "under 1500"
+    ],
+    "availability": "in_stock",
+    "stock": 60,
+    "deliveryInfo": "Free 2-day delivery"
+  },
+  {
+    "id": "zara-tailored-blazer",
+    "sku": "FASH-031",
+    "title": "Zara Men's Tailored Wool-Blend Blazer",
+    "name": "Zara Men's Tailored Wool-Blend Blazer",
+    "brand": "Zara",
+    "category": "Fashion",
+    "subcategory": "Formal Wear",
+    "price": 5990,
+    "oldPrice": 7990,
+    "originalPrice": 7990,
+    "discountPercentage": 25,
+    "rating": 4.6,
+    "reviews": 410,
+    "reviewCount": 410,
+    "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=900&q=80"
+    ],
+    "badge": "Trending",
+    "specs": [
+      "Wool Blend Fabric",
+      "Notch Lapel Collar",
+      "Double Vent Back",
+      "Structured Shoulder"
+    ],
+    "description": "Sharp, modern tailored blazer crafted with structured drape and lightweight lining for business and celebrations.",
+    "features": [
+      "Wool Blend Fabric",
+      "Notch Lapel Collar",
+      "Double Vent Back",
+      "Structured Shoulder"
+    ],
+    "specifications": {
+      "Brand": "Zara",
+      "Category": "Formal Wear",
+      "Material": "Wool Blend Fabric"
+    },
+    "tags": [
+      "fashion",
+      "blazer",
+      "formal",
+      "suit",
+      "wool",
+      "wedding",
+      "office"
+    ],
+    "availability": "in_stock",
+    "stock": 60,
+    "deliveryInfo": "Free 2-day delivery"
+  },
+  {
+    "id": "wrangler-regular-fit-denim",
+    "sku": "FASH-032",
+    "title": "Wrangler Men's Regular Fit Blue Jeans",
+    "name": "Wrangler Men's Regular Fit Blue Jeans",
+    "brand": "Wrangler",
+    "category": "Fashion",
+    "subcategory": "Jeans",
+    "price": 1999,
+    "oldPrice": 2999,
+    "originalPrice": 2999,
+    "discountPercentage": 33,
+    "rating": 4.4,
+    "reviews": 1800,
+    "reviewCount": 1800,
+    "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=900&q=80"
+    ],
+    "badge": "Budget pick",
+    "specs": [
+      "100% Heavyweight Cotton",
+      "Comfortable Straight Leg",
+      "Reinforced Seams",
+      "Mid-Rise Waist"
+    ],
+    "description": "Classic durable western straight-leg jeans engineered for long-lasting rugged daily wear.",
+    "features": [
+      "100% Heavyweight Cotton",
+      "Comfortable Straight Leg",
+      "Reinforced Seams",
+      "Mid-Rise Waist"
+    ],
+    "specifications": {
+      "Brand": "Wrangler",
+      "Category": "Jeans",
+      "Material": "100% Heavyweight Cotton"
+    },
+    "tags": [
+      "fashion",
+      "jeans",
+      "wrangler",
+      "denim",
+      "regular fit",
+      "under 2000"
+    ],
+    "availability": "in_stock",
+    "stock": 60,
+    "deliveryInfo": "Free 2-day delivery"
+  },
+  {
+    "id": "van-heusen-formal-trousers",
+    "sku": "FASH-033",
+    "title": "Van Heusen Men's Formal Slim Trousers",
+    "name": "Van Heusen Men's Formal Slim Trousers",
+    "brand": "Van Heusen",
+    "category": "Fashion",
+    "subcategory": "Formal Wear",
+    "price": 1899,
+    "oldPrice": 2699,
+    "originalPrice": 2699,
+    "discountPercentage": 30,
+    "rating": 4.5,
+    "reviews": 930,
+    "reviewCount": 930,
+    "image": "https://images.unsplash.com/photo-1479064555552-3ef4979f8908?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1479064555552-3ef4979f8908?auto=format&fit=crop&w=900&q=80"
+    ],
+    "badge": null,
+    "specs": [
+      "Poly-Viscose Stretch Blend",
+      "Wrinkle Resistant",
+      "Flat Front Modern Fit",
+      "Button Waistband"
+    ],
+    "description": "Refined flat-front formal trousers featuring non-iron fabric for crisp office elegance.",
+    "features": [
+      "Poly-Viscose Stretch Blend",
+      "Wrinkle Resistant",
+      "Flat Front Modern Fit",
+      "Button Waistband"
+    ],
+    "specifications": {
+      "Brand": "Van Heusen",
+      "Category": "Formal Wear",
+      "Material": "Poly-Viscose Stretch Blend"
+    },
+    "tags": [
+      "fashion",
+      "trousers",
+      "formal",
+      "office",
+      "van heusen",
+      "slim"
+    ],
+    "availability": "in_stock",
+    "stock": 60,
+    "deliveryInfo": "Free 2-day delivery"
+  },
+  {
+    "id": "tommy-hilfiger-oxford-shirt",
+    "sku": "FASH-034",
+    "title": "Tommy Hilfiger Classic Oxford Cotton Shirt",
+    "name": "Tommy Hilfiger Classic Oxford Cotton Shirt",
+    "brand": "Tommy Hilfiger",
+    "category": "Fashion",
+    "subcategory": "Shirts",
+    "price": 3499,
+    "oldPrice": 4999,
+    "originalPrice": 4999,
+    "discountPercentage": 30,
+    "rating": 4.7,
+    "reviews": 820,
+    "reviewCount": 820,
+    "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?auto=format&fit=crop&w=900&q=80"
+    ],
+    "badge": "Top rated",
+    "specs": [
+      "Pure Oxford Cotton Weave",
+      "Button-Down Collar",
+      "Iconic Flag Embroidery",
+      "Regular Fit"
+    ],
+    "description": "Signature heritage oxford cotton button-down shirt designed with classic preppy styling.",
+    "features": [
+      "Pure Oxford Cotton Weave",
+      "Button-Down Collar",
+      "Iconic Flag Embroidery",
+      "Regular Fit"
+    ],
+    "specifications": {
+      "Brand": "Tommy Hilfiger",
+      "Category": "Shirts",
+      "Material": "Pure Oxford Cotton Weave"
+    },
+    "tags": [
+      "fashion",
+      "shirt",
+      "tommy hilfiger",
+      "oxford",
+      "premium",
+      "cotton"
+    ],
+    "availability": "in_stock",
+    "stock": 60,
+    "deliveryInfo": "Free 2-day delivery"
+  },
+  {
+    "id": "puma-classic-hoodie",
+    "sku": "FASH-035",
+    "title": "Puma Essentials Fleece Pullover Hoodie",
+    "name": "Puma Essentials Fleece Pullover Hoodie",
+    "brand": "Puma",
+    "category": "Fashion",
+    "subcategory": "Hoodies",
+    "price": 2299,
+    "oldPrice": 3499,
+    "originalPrice": 3499,
+    "discountPercentage": 34,
+    "rating": 4.5,
+    "reviews": 1400,
+    "reviewCount": 1400,
+    "image": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?auto=format&fit=crop&w=900&q=80"
+    ],
+    "badge": "Best match",
+    "specs": [
+      "Brushed Fleece Lining",
+      "Kangaroo Front Pocket",
+      "Jersey-Lined Hood with Drawcord",
+      "Ribbed Cuffs"
+    ],
+    "description": "Cozy everyday pullover hoodie with warm brushed fleece interior and bold Puma archive logo.",
+    "features": [
+      "Brushed Fleece Lining",
+      "Kangaroo Front Pocket",
+      "Jersey-Lined Hood with Drawcord",
+      "Ribbed Cuffs"
+    ],
+    "specifications": {
+      "Brand": "Puma",
+      "Category": "Hoodies",
+      "Material": "Brushed Fleece Lining"
+    },
+    "tags": [
+      "fashion",
+      "hoodie",
+      "puma",
+      "winter",
+      "casual",
+      "fleece",
+      "gym"
+    ],
+    "availability": "in_stock",
+    "stock": 60,
+    "deliveryInfo": "Free 2-day delivery"
+  },
+  {
+    "id": "hnm-oversized-cotton-tee",
+    "sku": "FASH-036",
+    "title": "H&M Men's Relaxed Fit Heavyweight T-Shirt",
+    "name": "H&M Men's Relaxed Fit Heavyweight T-Shirt",
+    "brand": "H&M",
+    "category": "Fashion",
+    "subcategory": "T-Shirts",
+    "price": 899,
+    "oldPrice": 1299,
+    "originalPrice": 1299,
+    "discountPercentage": 31,
+    "rating": 4.3,
+    "reviews": 2900,
+    "reviewCount": 2900,
+    "image": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=900&q=80"
+    ],
+    "badge": "Budget pick",
+    "specs": [
+      "Heavyweight 220 GSM Cotton",
+      "Drop Shoulder Fit",
+      "Ribbed Crew Neckline",
+      "Bio-Washed Finish"
+    ],
+    "description": "Trendy streetwear oversized graphic tee crafted from thick premium jersey cotton.",
+    "features": [
+      "Heavyweight 220 GSM Cotton",
+      "Drop Shoulder Fit",
+      "Ribbed Crew Neckline",
+      "Bio-Washed Finish"
+    ],
+    "specifications": {
+      "Brand": "H&M",
+      "Category": "T-Shirts",
+      "Material": "Heavyweight 220 GSM Cotton"
+    },
+    "tags": [
+      "fashion",
+      "tshirt",
+      "oversized",
+      "streetwear",
+      "cotton",
+      "budget",
+      "under 1000"
+    ],
+    "availability": "in_stock",
+    "stock": 60,
+    "deliveryInfo": "Free 2-day delivery"
+  },
+  {
+    "id": "raymond-formal-linen-shirt",
+    "sku": "FASH-037",
+    "title": "Raymond Men's Pure French Linen Shirt",
+    "name": "Raymond Men's Pure French Linen Shirt",
+    "brand": "Raymond",
+    "category": "Fashion",
+    "subcategory": "Shirts",
+    "price": 2999,
+    "oldPrice": 4299,
+    "originalPrice": 4299,
+    "discountPercentage": 30,
+    "rating": 4.6,
+    "reviews": 670,
+    "reviewCount": 670,
+    "image": "https://images.unsplash.com/photo-1603252109303-2751441dd157?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1603252109303-2751441dd157?auto=format&fit=crop&w=900&q=80"
+    ],
+    "badge": "Trending",
+    "specs": [
+      "100% Pure French Linen",
+      "Natural Cool Drape",
+      "Semi-Cutaway Collar",
+      "Regular Fit"
+    ],
+    "description": "Luxurious breathable 100% French linen shirt keeping you breezy and elegant through summer.",
+    "features": [
+      "100% Pure French Linen",
+      "Natural Cool Drape",
+      "Semi-Cutaway Collar",
+      "Regular Fit"
+    ],
+    "specifications": {
+      "Brand": "Raymond",
+      "Category": "Shirts",
+      "Material": "100% Pure French Linen"
+    },
+    "tags": [
+      "fashion",
+      "shirt",
+      "linen",
+      "raymond",
+      "summer",
+      "breathable",
+      "premium"
+    ],
+    "availability": "in_stock",
+    "stock": 60,
+    "deliveryInfo": "Free 2-day delivery"
+  },
+  {
+    "id": "nike-revolution-6",
+    "sku": "FOOT-038",
+    "title": "Nike Revolution 6 Next Nature Running Shoes",
+    "name": "Nike Revolution 6 Next Nature Running Shoes",
+    "brand": "Nike",
+    "category": "Footwear",
+    "subcategory": "Running Shoes",
+    "price": 2995,
+    "oldPrice": 3695,
+    "originalPrice": 3695,
+    "discountPercentage": 19,
+    "rating": 4.5,
+    "reviews": 3100,
+    "reviewCount": 3100,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80"
+    ],
+    "badge": "Best match",
+    "specs": [
+      "Soft Foam Midsole",
+      "Breathable Mesh Upper",
+      "Durable Rubber Outsole",
+      "Recycled Material"
+    ],
+    "description": "Lightweight and cushioned running shoes with plush foam underfoot for a smooth ride during daily runs.",
+    "features": [
+      "Soft Foam Midsole",
+      "Breathable Mesh Upper",
+      "Durable Rubber Outsole",
+      "Recycled Material"
+    ],
+    "specifications": {
+      "Brand": "Nike",
+      "Category": "Running Shoes",
+      "Material": "Soft Foam Midsole"
+    },
+    "tags": [
+      "footwear",
+      "shoes",
+      "running",
+      "nike",
+      "sports",
+      "gym",
+      "under 3000"
+    ],
+    "availability": "in_stock",
+    "stock": 50,
+    "deliveryInfo": "Free 2-day delivery"
+  },
+  {
+    "id": "puma-flyer-runner",
+    "sku": "FOOT-039",
+    "title": "Puma Flyer Runner Sports Shoes",
+    "name": "Puma Flyer Runner Sports Shoes",
+    "brand": "Puma",
+    "category": "Footwear",
+    "subcategory": "Running Shoes",
+    "price": 2199,
+    "oldPrice": 3499,
+    "originalPrice": 3499,
+    "discountPercentage": 37,
+    "rating": 4.4,
+    "reviews": 2890,
+    "reviewCount": 2890,
+    "image": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1608231387042-66d1773070a5?auto=format&fit=crop&w=900&q=80"
+    ],
+    "badge": "Budget pick",
+    "specs": [
+      "SoftFoam+ Dual-Density Insole",
+      "EVA Foam Midsole",
+      "Rubber Pods Outsole",
+      "Breathable Mesh"
+    ],
+    "description": "Sleek and versatile sports shoe engineered with Puma SoftFoam+ comfort insole for step-in cushioning.",
+    "features": [
+      "SoftFoam+ Dual-Density Insole",
+      "EVA Foam Midsole",
+      "Rubber Pods Outsole",
+      "Breathable Mesh"
+    ],
+    "specifications": {
+      "Brand": "Puma",
+      "Category": "Running Shoes",
+      "Material": "SoftFoam+ Dual-Density Insole"
+    },
+    "tags": [
+      "footwear",
+      "puma",
+      "running shoes",
+      "sports",
+      "budget",
+      "under 2500"
+    ],
+    "availability": "in_stock",
+    "stock": 50,
+    "deliveryInfo": "Free 2-day delivery"
+  },
+  {
+    "id": "clarks-leather-oxfords",
+    "sku": "FOOT-040",
+    "title": "Clarks Men's Tilden Walk Leather Formal Shoes",
+    "name": "Clarks Men's Tilden Walk Leather Formal Shoes",
+    "brand": "Clarks",
+    "category": "Footwear",
+    "subcategory": "Formal Shoes",
+    "price": 4999,
+    "oldPrice": 6999,
+    "originalPrice": 6999,
+    "discountPercentage": 29,
+    "rating": 4.6,
+    "reviews": 820,
+    "reviewCount": 820,
+    "image": "https://images.unsplash.com/photo-1614252235316-8c857d38b5f4?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1614252235316-8c857d38b5f4?auto=format&fit=crop&w=900&q=80"
+    ],
+    "badge": "Top rated",
+    "specs": [
+      "Genuine Full-Grain Leather",
+      "Ortholite Cushion Soft Footbed",
+      "Flexible TPR Sole",
+      "Square Toe Profile"
+    ],
+    "description": "Timeless polished leather derby shoes with discreet stretch gore panels and high-rebound cushioning.",
+    "features": [
+      "Genuine Full-Grain Leather",
+      "Ortholite Cushion Soft Footbed",
+      "Flexible TPR Sole",
+      "Square Toe Profile"
+    ],
+    "specifications": {
+      "Brand": "Clarks",
+      "Category": "Formal Shoes",
+      "Material": "Genuine Full-Grain Leather"
+    },
+    "tags": [
+      "footwear",
+      "formal",
+      "shoes",
+      "leather",
+      "clarks",
+      "office",
+      "derby"
+    ],
+    "availability": "in_stock",
+    "stock": 50,
+    "deliveryInfo": "Free 2-day delivery"
+  },
+  {
+    "id": "adidas-advantage-sneakers",
+    "sku": "FOOT-041",
+    "title": "Adidas Advantage Base Court Sneakers",
+    "name": "Adidas Advantage Base Court Sneakers",
+    "brand": "Adidas",
+    "category": "Footwear",
+    "subcategory": "Casual Shoes",
+    "price": 3599,
+    "oldPrice": 4999,
+    "originalPrice": 4999,
+    "discountPercentage": 28,
+    "rating": 4.6,
+    "reviews": 4200,
+    "reviewCount": 4200,
+    "image": "https://images.unsplash.com/photo-1587563871167-1ee9c731aefb?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1587563871167-1ee9c731aefb?auto=format&fit=crop&w=900&q=80"
+    ],
+    "badge": "Trending",
+    "specs": [
+      "Perforated 3-Stripes",
+      "Smooth Synthetic Leather Upper",
+      "EVA Sockliner Cushioning",
+      "Rubber Cupsole"
+    ],
+    "description": "Clean and minimalist tennis-inspired low-top sneakers that pair seamlessly with chinos, jeans or shorts.",
+    "features": [
+      "Perforated 3-Stripes",
+      "Smooth Synthetic Leather Upper",
+      "EVA Sockliner Cushioning",
+      "Rubber Cupsole"
+    ],
+    "specifications": {
+      "Brand": "Adidas",
+      "Category": "Casual Shoes",
+      "Material": "Perforated 3-Stripes"
+    },
+    "tags": [
+      "footwear",
+      "adidas",
+      "sneakers",
+      "casual",
+      "white sneakers",
+      "court"
+    ],
+    "availability": "in_stock",
+    "stock": 50,
+    "deliveryInfo": "Free 2-day delivery"
+  },
+  {
+    "id": "woodland-leather-boots",
+    "sku": "FOOT-042",
+    "title": "Woodland Men's Nubuck Leather Trekking Boots",
+    "name": "Woodland Men's Nubuck Leather Trekking Boots",
+    "brand": "Woodland",
+    "category": "Footwear",
+    "subcategory": "Sports Shoes",
+    "price": 4495,
+    "oldPrice": 5995,
+    "originalPrice": 5995,
+    "discountPercentage": 25,
+    "rating": 4.7,
+    "reviews": 3100,
+    "reviewCount": 3100,
+    "image": "https://images.unsplash.com/photo-1520639888713-7851133b1ed0?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1520639888713-7851133b1ed0?auto=format&fit=crop&w=900&q=80"
+    ],
+    "badge": "Top rated",
+    "specs": [
+      "Genuine Nubuck Leather",
+      "Deep Cleated Rubber Lug Sole",
+      "Padded Ankle Collar",
+      "Rust-Proof Eyelets"
+    ],
+    "description": "Iconic heavy-duty outdoor boots delivering exceptional durability and grip across rough trails and urban terrain.",
+    "features": [
+      "Genuine Nubuck Leather",
+      "Deep Cleated Rubber Lug Sole",
+      "Padded Ankle Collar",
+      "Rust-Proof Eyelets"
+    ],
+    "specifications": {
+      "Brand": "Woodland",
+      "Category": "Sports Shoes",
+      "Material": "Genuine Nubuck Leather"
+    },
+    "tags": [
+      "footwear",
+      "woodland",
+      "boots",
+      "leather",
+      "trekking",
+      "rugged",
+      "outdoor"
+    ],
+    "availability": "in_stock",
+    "stock": 50,
+    "deliveryInfo": "Free 2-day delivery"
+  },
+  {
+    "id": "bata-derby-formal",
+    "sku": "FOOT-043",
+    "title": "Bata Men's Classic Leather Formal Derby Shoes",
+    "name": "Bata Men's Classic Leather Formal Derby Shoes",
+    "brand": "Bata",
+    "category": "Footwear",
+    "subcategory": "Formal Shoes",
+    "price": 1599,
+    "oldPrice": 2299,
+    "originalPrice": 2299,
+    "discountPercentage": 30,
+    "rating": 4.3,
+    "reviews": 1900,
+    "reviewCount": 1900,
+    "image": "https://images.unsplash.com/photo-1533867617858-e7b97e060509?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1533867617858-e7b97e060509?auto=format&fit=crop&w=900&q=80"
+    ],
+    "badge": "Budget pick",
+    "specs": [
+      "Synthetic Leather Gloss Finish",
+      "Cushioned Latex Insole",
+      "Anti-Skid PVC Sole",
+      "Lace-Up Closure"
+    ],
+    "description": "Affordable formal dress shoes offering sharp professional styling and reliable everyday office comfort.",
+    "features": [
+      "Synthetic Leather Gloss Finish",
+      "Cushioned Latex Insole",
+      "Anti-Skid PVC Sole",
+      "Lace-Up Closure"
+    ],
+    "specifications": {
+      "Brand": "Bata",
+      "Category": "Formal Shoes",
+      "Material": "Synthetic Leather Gloss Finish"
+    },
+    "tags": [
+      "footwear",
+      "bata",
+      "formal shoes",
+      "office",
+      "budget",
+      "under 2000"
+    ],
+    "availability": "in_stock",
+    "stock": 50,
+    "deliveryInfo": "Free 2-day delivery"
+  },
+  {
+    "id": "asics-gel-contend-8",
+    "sku": "FOOT-044",
+    "title": "ASICS Gel-Contend 8 Running Shoes",
+    "name": "ASICS Gel-Contend 8 Running Shoes",
+    "brand": "ASICS",
+    "category": "Footwear",
+    "subcategory": "Running Shoes",
+    "price": 3799,
+    "oldPrice": 4999,
+    "originalPrice": 4999,
+    "discountPercentage": 24,
+    "rating": 4.6,
+    "reviews": 1750,
+    "reviewCount": 1750,
+    "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?auto=format&fit=crop&w=900&q=80"
+    ],
+    "badge": "Best match",
+    "specs": [
+      "Rearfoot GEL Cushioning System",
+      "AMPLIFOAM Midsole",
+      "Ortholite Moisture-Wicking Sockliner",
+      "Engineered Jacquard Mesh"
+    ],
+    "description": "Renowned running shoes engineered with rearfoot GEL technology to absorb shock and support neutral runners.",
+    "features": [
+      "Rearfoot GEL Cushioning System",
+      "AMPLIFOAM Midsole",
+      "Ortholite Moisture-Wicking Sockliner",
+      "Engineered Jacquard Mesh"
+    ],
+    "specifications": {
+      "Brand": "ASICS",
+      "Category": "Running Shoes",
+      "Material": "Rearfoot GEL Cushioning System"
+    },
+    "tags": [
+      "footwear",
+      "asics",
+      "running shoes",
+      "gel",
+      "marathon",
+      "cushioning",
+      "sports"
+    ],
+    "availability": "in_stock",
+    "stock": 50,
+    "deliveryInfo": "Free 2-day delivery"
+  },
+  {
+    "id": "converse-chuck-taylor",
+    "sku": "FOOT-045",
+    "title": "Converse Chuck Taylor All Star High Tops",
+    "name": "Converse Chuck Taylor All Star High Tops",
+    "brand": "Converse",
+    "category": "Footwear",
+    "subcategory": "Casual Shoes",
+    "price": 3999,
+    "oldPrice": 4999,
+    "originalPrice": 4999,
+    "discountPercentage": 20,
+    "rating": 4.7,
+    "reviews": 5600,
+    "reviewCount": 5600,
+    "image": "https://images.unsplash.com/photo-1607522370275-f14206abe5d3?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1607522370275-f14206abe5d3?auto=format&fit=crop&w=900&q=80"
+    ],
+    "badge": "Top rated",
+    "specs": [
+      "Heavy Canvas Upper",
+      "Vulcanized Rubber Outsole",
+      "Classic Ankle Star Patch",
+      "OrthoLite Insole"
+    ],
+    "description": "The legendary canvas high-top sneaker that defined street culture, music, and casual footwear for decades.",
+    "features": [
+      "Heavy Canvas Upper",
+      "Vulcanized Rubber Outsole",
+      "Classic Ankle Star Patch",
+      "OrthoLite Insole"
+    ],
+    "specifications": {
+      "Brand": "Converse",
+      "Category": "Casual Shoes",
+      "Material": "Heavy Canvas Upper"
+    },
+    "tags": [
+      "footwear",
+      "converse",
+      "sneakers",
+      "high top",
+      "canvas",
+      "vintage",
+      "casual"
+    ],
+    "availability": "in_stock",
+    "stock": 50,
+    "deliveryInfo": "Free 2-day delivery"
+  },
+  {
+    "id": "wildcraft-trek-backpack",
+    "sku": "ACC-046",
+    "title": "Wildcraft 35L Water Resistant Travel Backpack",
+    "name": "Wildcraft 35L Water Resistant Travel Backpack",
+    "brand": "Wildcraft",
+    "category": "Accessories",
+    "subcategory": "Backpacks",
+    "price": 1899,
+    "oldPrice": 2799,
+    "originalPrice": 2799,
+    "discountPercentage": 32,
+    "rating": 4.5,
+    "reviews": 2300,
+    "reviewCount": 2300,
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80"
+    ],
+    "badge": "Best match",
+    "specs": [
+      "35 Litre Capacity",
+      "Dedicated 15.6\" Laptop Sleeve",
+      "Water-Repellent Poly Fabric",
+      "Ergonomic Back Padding"
+    ],
+    "description": "Tough 3-compartment multi-utility backpack equipped with a padded laptop compartment and rain cover pouch.",
+    "features": [
+      "35 Litre Capacity",
+      "Dedicated 15.6\" Laptop Sleeve",
+      "Water-Repellent Poly Fabric",
+      "Ergonomic Back Padding"
+    ],
+    "specifications": {
+      "Brand": "Wildcraft",
+      "Category": "Backpacks",
+      "Material": "35 Litre Capacity"
+    },
+    "tags": [
+      "accessories",
+      "backpack",
+      "bag",
+      "laptop bag",
+      "wildcraft",
+      "college",
+      "under 2000"
+    ],
+    "availability": "in_stock",
+    "stock": 45,
+    "deliveryInfo": "Free 2-day delivery"
+  },
+  {
+    "id": "fossil-grant-chronograph",
+    "sku": "ACC-047",
+    "title": "Fossil Grant Chronograph Men's Leather Watch",
+    "name": "Fossil Grant Chronograph Men's Leather Watch",
+    "brand": "Fossil",
+    "category": "Accessories",
+    "subcategory": "Watches",
+    "price": 8495,
+    "oldPrice": 12495,
+    "originalPrice": 12495,
+    "discountPercentage": 32,
+    "rating": 4.7,
+    "reviews": 1420,
+    "reviewCount": 1420,
+    "image": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1524805444758-089113d48a6d?auto=format&fit=crop&w=900&q=80"
+    ],
+    "badge": "Top rated",
+    "specs": [
+      "44mm Stainless Steel Case",
+      "Genuine Leather Strap",
+      "Chronograph Stopwatch Dial",
+      "5 ATM Water Resistance"
+    ],
+    "description": "Vintage-inspired chronograph watch featuring Roman numeral indices, rich brown leather strap, and stainless steel bezel.",
+    "features": [
+      "44mm Stainless Steel Case",
+      "Genuine Leather Strap",
+      "Chronograph Stopwatch Dial",
+      "5 ATM Water Resistance"
+    ],
+    "specifications": {
+      "Brand": "Fossil",
+      "Category": "Watches",
+      "Material": "44mm Stainless Steel Case"
+    },
+    "tags": [
+      "accessories",
+      "watch",
+      "fossil",
+      "leather",
+      "chronograph",
+      "gift",
+      "premium"
+    ],
+    "availability": "in_stock",
+    "stock": 45,
+    "deliveryInfo": "Free 2-day delivery"
+  },
+  {
+    "id": "tommy-leather-wallet",
+    "sku": "ACC-048",
+    "title": "Tommy Hilfiger Men's Leather Bifold Wallet",
+    "name": "Tommy Hilfiger Men's Leather Bifold Wallet",
+    "brand": "Tommy Hilfiger",
+    "category": "Accessories",
+    "subcategory": "Wallets",
+    "price": 1999,
+    "oldPrice": 2999,
+    "originalPrice": 2999,
+    "discountPercentage": 33,
+    "rating": 4.6,
+    "reviews": 970,
+    "reviewCount": 970,
+    "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=900&q=80"
+    ],
+    "badge": null,
+    "specs": [
+      "100% Genuine Leather",
+      "RFID Blocking Technology",
+      "6 Card Slots + ID Window",
+      "Dual Currency Compartments"
+    ],
+    "description": "Slim bifold wallet constructed from 100% genuine milled leather with built-in RFID blocking to protect your credit cards.",
+    "features": [
+      "100% Genuine Leather",
+      "RFID Blocking Technology",
+      "6 Card Slots + ID Window",
+      "Dual Currency Compartments"
+    ],
+    "specifications": {
+      "Brand": "Tommy Hilfiger",
+      "Category": "Wallets",
+      "Material": "100% Genuine Leather"
+    },
+    "tags": [
+      "accessories",
+      "wallet",
+      "leather",
+      "tommy hilfiger",
+      "rfid",
+      "gift",
+      "under 2000"
+    ],
+    "availability": "in_stock",
+    "stock": 45,
+    "deliveryInfo": "Free 2-day delivery"
+  },
+  {
+    "id": "casio-vintage-digital-watch",
+    "sku": "ACC-049",
+    "title": "Casio Vintage Digital Gold Stainless Watch",
+    "name": "Casio Vintage Digital Gold Stainless Watch",
+    "brand": "Casio",
+    "category": "Accessories",
+    "subcategory": "Watches",
+    "price": 3995,
+    "oldPrice": 4995,
+    "originalPrice": 4995,
+    "discountPercentage": 20,
+    "rating": 4.8,
+    "reviews": 4800,
+    "reviewCount": 4800,
+    "image": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=900&q=80"
+    ],
+    "badge": "Trending",
+    "specs": [
+      "Stainless Steel Gold-Tone Band",
+      "LED Backlight Illuminator",
+      "1/100 Second Stopwatch",
+      "Daily Alarm"
+    ],
+    "description": "Iconic retro gold digital watch featuring stainless steel adjustable link bracelet and water resistance.",
+    "features": [
+      "Stainless Steel Gold-Tone Band",
+      "LED Backlight Illuminator",
+      "1/100 Second Stopwatch",
+      "Daily Alarm"
+    ],
+    "specifications": {
+      "Brand": "Casio",
+      "Category": "Watches",
+      "Material": "Stainless Steel Gold-Tone Band"
+    },
+    "tags": [
+      "accessories",
+      "watch",
+      "casio",
+      "vintage",
+      "gold",
+      "digital",
+      "retro"
+    ],
+    "availability": "in_stock",
+    "stock": 45,
+    "deliveryInfo": "Free 2-day delivery"
+  },
+  {
+    "id": "titan-neo-analog-watch",
+    "sku": "ACC-050",
+    "title": "Titan Neo Analog Dial Stainless Steel Watch",
+    "name": "Titan Neo Analog Dial Stainless Steel Watch",
+    "brand": "Titan",
+    "category": "Accessories",
+    "subcategory": "Watches",
+    "price": 3495,
+    "oldPrice": 4495,
+    "originalPrice": 4495,
+    "discountPercentage": 22,
+    "rating": 4.5,
+    "reviews": 2150,
+    "reviewCount": 2150,
+    "image": "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?auto=format&fit=crop&w=900&q=80"
+    ],
+    "badge": "Best value",
+    "specs": [
+      "Mineral Glass Crystal",
+      "Water Resistance 50M",
+      "Precision Quartz Movement",
+      "Date Display Window"
+    ],
+    "description": "Elegant dress watch with deep blue dial, silver indices, and durable stainless steel metal strap.",
+    "features": [
+      "Mineral Glass Crystal",
+      "Water Resistance 50M",
+      "Precision Quartz Movement",
+      "Date Display Window"
+    ],
+    "specifications": {
+      "Brand": "Titan",
+      "Category": "Watches",
+      "Material": "Mineral Glass Crystal"
+    },
+    "tags": [
+      "accessories",
+      "watch",
+      "titan",
+      "analog",
+      "formal",
+      "men",
+      "under 4000"
+    ],
+    "availability": "in_stock",
+    "stock": 45,
+    "deliveryInfo": "Free 2-day delivery"
+  },
+  {
+    "id": "american-tourister-laptop-bag",
+    "sku": "ACC-051",
+    "title": "American Tourister 32L Casual Laptop Backpack",
+    "name": "American Tourister 32L Casual Laptop Backpack",
+    "brand": "American Tourister",
+    "category": "Accessories",
+    "subcategory": "Backpacks",
+    "price": 1499,
+    "oldPrice": 2400,
+    "originalPrice": 2400,
+    "discountPercentage": 38,
+    "rating": 4.4,
+    "reviews": 3800,
+    "reviewCount": 3800,
+    "image": "https://images.unsplash.com/photo-1577733966973-d680bffd2e80?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1577733966973-d680bffd2e80?auto=format&fit=crop&w=900&q=80"
+    ],
+    "badge": "Budget pick",
+    "specs": [
+      "Tractum Suspension Straps",
+      "Rain Cover Included",
+      "3 Large Compartments",
+      "Side Mesh Bottle Holder"
+    ],
+    "description": "Comfortable backpack engineered with shock-absorbing shoulder straps to lighten the burden of heavy laptops and textbooks.",
+    "features": [
+      "Tractum Suspension Straps",
+      "Rain Cover Included",
+      "3 Large Compartments",
+      "Side Mesh Bottle Holder"
+    ],
+    "specifications": {
+      "Brand": "American Tourister",
+      "Category": "Backpacks",
+      "Material": "Tractum Suspension Straps"
+    },
+    "tags": [
+      "accessories",
+      "backpack",
+      "american tourister",
+      "college",
+      "school",
+      "laptop bag",
+      "under 1500"
+    ],
+    "availability": "in_stock",
+    "stock": 45,
+    "deliveryInfo": "Free 2-day delivery"
+  },
+  {
+    "id": "rayban-aviator-sunglasses",
+    "sku": "ACC-052",
+    "title": "Ray-Ban Classic Aviator Polarized Sunglasses",
+    "name": "Ray-Ban Classic Aviator Polarized Sunglasses",
+    "brand": "Ray-Ban",
+    "category": "Accessories",
+    "subcategory": "Smart Wearables",
+    "price": 7990,
+    "oldPrice": 9990,
+    "originalPrice": 9990,
+    "discountPercentage": 20,
+    "rating": 4.8,
+    "reviews": 1600,
+    "reviewCount": 1600,
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=900&q=80"
+    ],
+    "badge": "Top rated",
+    "specs": [
+      "100% UV400 Protection",
+      "Polarized Crystal Green Lenses",
+      "Gold Metal Frame",
+      "Adjustable Silicone Nose Pads"
+    ],
+    "description": "Timeless teardrop pilot aviators with crystal clear polarized lenses cutting glare and reflections.",
+    "features": [
+      "100% UV400 Protection",
+      "Polarized Crystal Green Lenses",
+      "Gold Metal Frame",
+      "Adjustable Silicone Nose Pads"
+    ],
+    "specifications": {
+      "Brand": "Ray-Ban",
+      "Category": "Smart Wearables",
+      "Material": "100% UV400 Protection"
+    },
+    "tags": [
+      "accessories",
+      "sunglasses",
+      "rayban",
+      "aviator",
+      "polarized",
+      "gift",
+      "premium"
+    ],
+    "availability": "in_stock",
+    "stock": 45,
+    "deliveryInfo": "Free 2-day delivery"
+  },
+  {
+    "id": "fitbit-charge-6",
+    "sku": "ACC-053",
+    "title": "Fitbit Charge 6 Fitness Tracker & Heart Rate",
+    "name": "Fitbit Charge 6 Fitness Tracker & Heart Rate",
+    "brand": "Fitbit",
+    "category": "Accessories",
+    "subcategory": "Smart Wearables",
+    "price": 12999,
+    "oldPrice": 14999,
+    "originalPrice": 14999,
+    "discountPercentage": 13,
+    "rating": 4.6,
+    "reviews": 920,
+    "reviewCount": 920,
+    "image": "https://images.unsplash.com/photo-1575311373937-040b8e1fd5b6?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1575311373937-040b8e1fd5b6?auto=format&fit=crop&w=900&q=80"
+    ],
+    "badge": "Trending",
+    "specs": [
+      "Built-in GPS + GLONASS",
+      "ECG & EDA Stress Sensors",
+      "YouTube Music & Google Maps Controls",
+      "7 Days Battery Life"
+    ],
+    "description": "Advanced health & fitness tracker offering heart rate tracking on exercise equipment, SpO2, and sleep scores.",
+    "features": [
+      "Built-in GPS + GLONASS",
+      "ECG & EDA Stress Sensors",
+      "YouTube Music & Google Maps Controls",
+      "7 Days Battery Life"
+    ],
+    "specifications": {
+      "Brand": "Fitbit",
+      "Category": "Smart Wearables",
+      "Material": "Built-in GPS + GLONASS"
+    },
+    "tags": [
+      "accessories",
+      "smartwatch",
+      "fitness tracker",
+      "fitbit",
+      "gps",
+      "health",
+      "battery"
+    ],
+    "availability": "in_stock",
+    "stock": 45,
+    "deliveryInfo": "Free 2-day delivery"
+  },
+  {
+    "id": "wipro-smart-led-lamp",
+    "sku": "HOME-054",
+    "title": "Wipro Garnet 12W Smart LED Desk Lamp",
+    "name": "Wipro Garnet 12W Smart LED Desk Lamp",
+    "brand": "Wipro",
+    "category": "Home & Lifestyle",
+    "subcategory": "Desk Lamps",
+    "price": 1499,
+    "oldPrice": 2499,
+    "originalPrice": 2499,
+    "discountPercentage": 40,
+    "rating": 4.4,
+    "reviews": 1780,
+    "reviewCount": 1780,
+    "image": "https://images.unsplash.com/photo-1534353436294-0dbd4bdac845?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1534353436294-0dbd4bdac845?auto=format&fit=crop&w=900&q=80"
+    ],
+    "badge": "Best match",
+    "specs": [
+      "16 Million Colors + Tunable White",
+      "App & Voice Control (Alexa/Google)",
+      "Touch Dimmer Sensor",
+      "Flexible Gooseneck"
+    ],
+    "description": "Smart IoT desk lamp with flicker-free eye-caring illumination, tunable warm-to-cool white, and smartphone app control.",
+    "features": [
+      "16 Million Colors + Tunable White",
+      "App & Voice Control (Alexa/Google)",
+      "Touch Dimmer Sensor",
+      "Flexible Gooseneck"
+    ],
+    "specifications": {
+      "Brand": "Wipro",
+      "Category": "Desk Lamps",
+      "Material": "16 Million Colors + Tunable White"
+    },
+    "tags": [
+      "home",
+      "lifestyle",
+      "desk lamp",
+      "led",
+      "smart home",
+      "alexa",
+      "office",
+      "under 1500"
+    ],
+    "availability": "in_stock",
+    "stock": 50,
+    "deliveryInfo": "Free 2-day delivery"
+  },
+  {
+    "id": "philips-daily-blender",
+    "sku": "HOME-055",
+    "title": "Philips Daily Collection 500W Mixer Grinder",
+    "name": "Philips Daily Collection 500W Mixer Grinder",
+    "brand": "Philips",
+    "category": "Home & Lifestyle",
+    "subcategory": "Kitchen",
+    "price": 2699,
+    "oldPrice": 3995,
+    "originalPrice": 3995,
+    "discountPercentage": 32,
+    "rating": 4.5,
+    "reviews": 3200,
+    "reviewCount": 3200,
+    "image": "https://images.unsplash.com/photo-1570222094114-d054a817e56b?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1570222094114-d054a817e56b?auto=format&fit=crop&w=900&q=80"
+    ],
+    "badge": "Top rated",
+    "specs": [
+      "500W Powerful Torque Motor",
+      "3 Stainless Steel Jars",
+      "Specialized Blades for Fine Grinding",
+      "Auto-Cutoff Protection"
+    ],
+    "description": "Compact and efficient 500W mixer grinder designed for tough Indian grinding, chutneys, smoothies and dry spices.",
+    "features": [
+      "500W Powerful Torque Motor",
+      "3 Stainless Steel Jars",
+      "Specialized Blades for Fine Grinding",
+      "Auto-Cutoff Protection"
+    ],
+    "specifications": {
+      "Brand": "Philips",
+      "Category": "Kitchen",
+      "Material": "500W Powerful Torque Motor"
+    },
+    "tags": [
+      "home",
+      "kitchen",
+      "blender",
+      "mixer",
+      "philips",
+      "appliances",
+      "under 3000"
+    ],
+    "availability": "in_stock",
+    "stock": 50,
+    "deliveryInfo": "Free 2-day delivery"
+  },
+  {
+    "id": "milton-thermosteel-bottle",
+    "sku": "HOME-056",
+    "title": "Milton Thermosteel Flip Lid 1000ml Flask",
+    "name": "Milton Thermosteel Flip Lid 1000ml Flask",
+    "brand": "Milton",
+    "category": "Home & Lifestyle",
+    "subcategory": "Kitchen",
+    "price": 899,
+    "oldPrice": 1299,
+    "originalPrice": 1299,
+    "discountPercentage": 31,
+    "rating": 4.6,
+    "reviews": 5400,
+    "reviewCount": 5400,
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=900&q=80"
+    ],
+    "badge": "Budget pick",
+    "specs": [
+      "24 Hours Hot & Cold Insulation",
+      "18/8 Food Grade Stainless Steel",
+      "Leakproof Flip Lid",
+      "BPA Free"
+    ],
+    "description": "Double-walled vacuum insulated flask keeping water hot or chilled for 24 continuous hours.",
+    "features": [
+      "24 Hours Hot & Cold Insulation",
+      "18/8 Food Grade Stainless Steel",
+      "Leakproof Flip Lid",
+      "BPA Free"
+    ],
+    "specifications": {
+      "Brand": "Milton",
+      "Category": "Kitchen",
+      "Material": "24 Hours Hot & Cold Insulation"
+    },
+    "tags": [
+      "home",
+      "kitchen",
+      "bottle",
+      "flask",
+      "insulated",
+      "milton",
+      "under 1000"
+    ],
+    "availability": "in_stock",
+    "stock": 50,
+    "deliveryInfo": "Free 2-day delivery"
+  },
+  {
+    "id": "ergonomic-memory-foam-cushion",
+    "sku": "HOME-057",
+    "title": "The White Willow Ergonomic Coccyx Seat Cushion",
+    "name": "The White Willow Ergonomic Coccyx Seat Cushion",
+    "brand": "The White Willow",
+    "category": "Home & Lifestyle",
+    "subcategory": "Office Essentials",
+    "price": 1799,
+    "oldPrice": 2999,
+    "originalPrice": 2999,
+    "discountPercentage": 40,
+    "rating": 4.5,
+    "reviews": 1650,
+    "reviewCount": 1650,
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=900&q=80"
+    ],
+    "badge": "Best value",
+    "specs": [
+      "High-Density Responsive Memory Foam",
+      "Ergonomic U-Shaped Cutout",
+      "Breathable Mesh Cover",
+      "Anti-Slip Bottom"
+    ],
+    "description": "Orthopedic chair seat cushion relieving lower back pressure and tailbone pain during long desk work sessions.",
+    "features": [
+      "High-Density Responsive Memory Foam",
+      "Ergonomic U-Shaped Cutout",
+      "Breathable Mesh Cover",
+      "Anti-Slip Bottom"
+    ],
+    "specifications": {
+      "Brand": "The White Willow",
+      "Category": "Office Essentials",
+      "Material": "High-Density Responsive Memory Foam"
+    },
+    "tags": [
+      "home",
+      "office",
+      "ergonomic",
+      "cushion",
+      "chair",
+      "back pain",
+      "desk work"
+    ],
+    "availability": "in_stock",
+    "stock": 50,
+    "deliveryInfo": "Free 2-day delivery"
+  },
+  {
+    "id": "aroma-essential-oil-diffuser",
+    "sku": "HOME-058",
+    "title": "PureSpa Ceramic Ultrasonic Aroma Diffuser 500ml",
+    "name": "PureSpa Ceramic Ultrasonic Aroma Diffuser 500ml",
+    "brand": "PureSpa",
+    "category": "Home & Lifestyle",
+    "subcategory": "Home Decor",
+    "price": 1999,
+    "oldPrice": 3199,
+    "originalPrice": 3199,
+    "discountPercentage": 38,
+    "rating": 4.7,
+    "reviews": 980,
+    "reviewCount": 980,
+    "image": "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?auto=format&fit=crop&w=900&q=80"
+    ],
+    "badge": "Trending",
+    "specs": [
+      "500ml Large Capacity Tank",
+      "7 Color Soothing LED Mood Light",
+      "Waterless Auto Shut-Off",
+      "Ultra-Quiet Ultrasonic Mist"
+    ],
+    "description": "Ultrasonic essential oil diffuser and cool mist humidifier creating a tranquil spa ambience in your bedroom or study.",
+    "features": [
+      "500ml Large Capacity Tank",
+      "7 Color Soothing LED Mood Light",
+      "Waterless Auto Shut-Off",
+      "Ultra-Quiet Ultrasonic Mist"
+    ],
+    "specifications": {
+      "Brand": "PureSpa",
+      "Category": "Home Decor",
+      "Material": "500ml Large Capacity Tank"
+    },
+    "tags": [
+      "home",
+      "decor",
+      "diffuser",
+      "aromatherapy",
+      "essential oil",
+      "wellness",
+      "gift"
+    ],
+    "availability": "in_stock",
+    "stock": 50,
+    "deliveryInfo": "Free 2-day delivery"
+  },
+  {
+    "id": "prestige-electric-kettle",
+    "sku": "HOME-059",
+    "title": "Prestige 1.5L Stainless Steel Electric Kettle",
+    "name": "Prestige 1.5L Stainless Steel Electric Kettle",
+    "brand": "Prestige",
+    "category": "Home & Lifestyle",
+    "subcategory": "Kitchen",
+    "price": 749,
+    "oldPrice": 1295,
+    "originalPrice": 1295,
+    "discountPercentage": 42,
+    "rating": 4.3,
+    "reviews": 8900,
+    "reviewCount": 8900,
+    "image": "https://images.unsplash.com/photo-1594213114663-dd9cf3755490?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1594213114663-dd9cf3755490?auto=format&fit=crop&w=900&q=80"
+    ],
+    "badge": "Budget pick",
+    "specs": [
+      "1500 Watts Fast Boiling",
+      "Automatic Cut-Off on Boil",
+      "360-Degree Swivel Power Base",
+      "Single-Touch Lid Locking"
+    ],
+    "description": "High-speed electric water kettle for instant tea, coffee, hot water, soup, and noodles in college hostels or office pantries.",
+    "features": [
+      "1500 Watts Fast Boiling",
+      "Automatic Cut-Off on Boil",
+      "360-Degree Swivel Power Base",
+      "Single-Touch Lid Locking"
+    ],
+    "specifications": {
+      "Brand": "Prestige",
+      "Category": "Kitchen",
+      "Material": "1500 Watts Fast Boiling"
+    },
+    "tags": [
+      "home",
+      "kitchen",
+      "kettle",
+      "prestige",
+      "electric",
+      "instant coffee",
+      "under 1000"
+    ],
+    "availability": "in_stock",
+    "stock": 50,
+    "deliveryInfo": "Free 2-day delivery"
+  },
+  {
+    "id": "solimo-microfibre-bedsheet",
+    "sku": "HOME-060",
+    "title": "Amazon Brand - Solimo King Size Microfibre Bedsheet",
+    "name": "Amazon Brand - Solimo King Size Microfibre Bedsheet",
+    "brand": "Solimo",
+    "category": "Home & Lifestyle",
+    "subcategory": "Home Decor",
+    "price": 699,
+    "oldPrice": 1300,
+    "originalPrice": 1300,
+    "discountPercentage": 46,
+    "rating": 4.2,
+    "reviews": 4200,
+    "reviewCount": 4200,
+    "image": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&w=900&q=80"
+    ],
+    "badge": null,
+    "specs": [
+      "110 GSM Super Soft Microfibre",
+      "Colorfast Vibrant Floral Print",
+      "Includes 2 Matching Pillow Covers",
+      "Machine Wash Safe"
+    ],
+    "description": "Silky soft king-sized bedsheet featuring wrinkle resistance, vibrant floral motifs, and easy maintenance.",
+    "features": [
+      "110 GSM Super Soft Microfibre",
+      "Colorfast Vibrant Floral Print",
+      "Includes 2 Matching Pillow Covers",
+      "Machine Wash Safe"
+    ],
+    "specifications": {
+      "Brand": "Solimo",
+      "Category": "Home Decor",
+      "Material": "110 GSM Super Soft Microfibre"
+    },
+    "tags": [
+      "home",
+      "decor",
+      "bedsheet",
+      "microfibre",
+      "bedroom",
+      "budget",
+      "under 1000"
+    ],
+    "availability": "in_stock",
+    "stock": 50,
+    "deliveryInfo": "Free 2-day delivery"
+  },
+  {
+    "id": "portronics-laptop-table",
+    "sku": "HOME-061",
+    "title": "Portronics My Buddy Plus Adjustable Laptop Table",
+    "name": "Portronics My Buddy Plus Adjustable Laptop Table",
+    "brand": "Portronics",
+    "category": "Home & Lifestyle",
+    "subcategory": "Office Essentials",
+    "price": 1699,
+    "oldPrice": 2999,
+    "originalPrice": 2999,
+    "discountPercentage": 43,
+    "rating": 4.4,
+    "reviews": 3100,
+    "reviewCount": 3100,
+    "image": "https://images.unsplash.com/photo-1595428774223-ef52624120d2?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1595428774223-ef52624120d2?auto=format&fit=crop&w=900&q=80"
+    ],
+    "badge": "Best match",
+    "specs": [
+      "Built-in Silent Cooling Fan",
+      "Adjustable Height & Tilt Angles",
+      "Foldable Aluminium Legs",
+      "Wrist Support Pad"
+    ],
+    "description": "Multi-functional bed and sofa laptop table with integrated USB cooling fan to prevent laptop overheating while working from home.",
+    "features": [
+      "Built-in Silent Cooling Fan",
+      "Adjustable Height & Tilt Angles",
+      "Foldable Aluminium Legs",
+      "Wrist Support Pad"
+    ],
+    "specifications": {
+      "Brand": "Portronics",
+      "Category": "Office Essentials",
+      "Material": "Built-in Silent Cooling Fan"
+    },
+    "tags": [
+      "home",
+      "office",
+      "laptop table",
+      "desk",
+      "wfh",
+      "cooling fan",
+      "under 2000"
+    ],
+    "availability": "in_stock",
+    "stock": 50,
+    "deliveryInfo": "Free 2-day delivery"
+  },
+  {
+    "id": "gourmet-artisan-gift-box",
+    "sku": "GIFT-062",
+    "title": "Artisan Gourmet Treats & Coffee Gift Hamper",
+    "name": "Artisan Gourmet Treats & Coffee Gift Hamper",
+    "brand": "The Gift Studio",
+    "category": "Gifts",
+    "subcategory": "Gift Sets",
+    "price": 2499,
+    "oldPrice": 3499,
+    "originalPrice": 3499,
+    "discountPercentage": 29,
+    "rating": 4.8,
+    "reviews": 510,
+    "reviewCount": 510,
+    "image": "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?auto=format&fit=crop&w=900&q=80"
+    ],
+    "badge": "Best match",
+    "specs": [
+      "Single-Origin Arabica Coffee (250g)",
+      "Handmade Dark Chocolates (12 pcs)",
+      "Roasted Almonds Jar",
+      "Handmade Brass Bookmark"
+    ],
+    "description": "Luxurious gift hamper presented in a keepsake gold-embossed matte box with satin ribbon, ideal for birthdays and celebrations.",
+    "features": [
+      "Single-Origin Arabica Coffee (250g)",
+      "Handmade Dark Chocolates (12 pcs)",
+      "Roasted Almonds Jar",
+      "Handmade Brass Bookmark"
+    ],
+    "specifications": {
+      "Brand": "The Gift Studio",
+      "Category": "Gift Sets",
+      "Item": "Artisan Gourmet Treats & Coffee Gift Hamper"
+    },
+    "tags": [
+      "gifts",
+      "gift set",
+      "hamper",
+      "coffee",
+      "chocolate",
+      "birthday",
+      "celebration",
+      "under 3000"
+    ],
+    "availability": "in_stock",
+    "stock": 35,
+    "deliveryInfo": "Next day gift delivery"
+  },
+  {
+    "id": "parker-pen-and-wallet-set",
+    "sku": "GIFT-063",
+    "title": "Parker Vector Matte Black Pen & Leather Wallet Combo",
+    "name": "Parker Vector Matte Black Pen & Leather Wallet Combo",
+    "brand": "Parker",
+    "category": "Gifts",
+    "subcategory": "Personalised Gifts",
+    "price": 1499,
+    "oldPrice": 2199,
+    "originalPrice": 2199,
+    "discountPercentage": 32,
+    "rating": 4.6,
+    "reviews": 1200,
+    "reviewCount": 1200,
+    "image": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=900&q=80"
+    ],
+    "badge": "Top rated",
+    "specs": [
+      "Parker Vector Rollerball Pen",
+      "Full Grain Genuine Leather Wallet",
+      "Stainless Steel Keyring",
+      "Gift Box Packaging"
+    ],
+    "description": "Classic corporate executive gift set featuring an iconic Parker rollerball pen and coordinating leather accessories.",
+    "features": [
+      "Parker Vector Rollerball Pen",
+      "Full Grain Genuine Leather Wallet",
+      "Stainless Steel Keyring",
+      "Gift Box Packaging"
+    ],
+    "specifications": {
+      "Brand": "Parker",
+      "Category": "Personalised Gifts",
+      "Item": "Parker Vector Matte Black Pen & Leather Wallet Combo"
+    },
+    "tags": [
+      "gifts",
+      "parker",
+      "pen",
+      "wallet",
+      "executive",
+      "corporate",
+      "under 1500"
+    ],
+    "availability": "in_stock",
+    "stock": 35,
+    "deliveryInfo": "Next day gift delivery"
+  },
+  {
+    "id": "scented-soy-candles-trio",
+    "sku": "GIFT-064",
+    "title": "Aromatherapy Organic Soy Wax Scented Candle Trio",
+    "name": "Aromatherapy Organic Soy Wax Scented Candle Trio",
+    "brand": "Phool",
+    "category": "Gifts",
+    "subcategory": "Gift Sets",
+    "price": 1199,
+    "oldPrice": 1799,
+    "originalPrice": 1799,
+    "discountPercentage": 33,
+    "rating": 4.7,
+    "reviews": 780,
+    "reviewCount": 780,
+    "image": "https://images.unsplash.com/photo-1603006905003-be475563bc59?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1603006905003-be475563bc59?auto=format&fit=crop&w=900&q=80"
+    ],
+    "badge": "Trending",
+    "specs": [
+      "Lavender, Vanilla & Sandalwood Jars",
+      "100% Pure Soy Wax",
+      "Lead-Free Cotton Wicks",
+      "35 Hours Burn Time Each"
+    ],
+    "description": "Clean-burning organic scented candles hand-poured in reusable frosted glass amber jars with natural essential oils.",
+    "features": [
+      "Lavender, Vanilla & Sandalwood Jars",
+      "100% Pure Soy Wax",
+      "Lead-Free Cotton Wicks",
+      "35 Hours Burn Time Each"
+    ],
+    "specifications": {
+      "Brand": "Phool",
+      "Category": "Gift Sets",
+      "Item": "Aromatherapy Organic Soy Wax Scented Candle Trio"
+    },
+    "tags": [
+      "gifts",
+      "candles",
+      "aromatherapy",
+      "soy wax",
+      "festive",
+      "diwali",
+      "housewarming"
+    ],
+    "availability": "in_stock",
+    "stock": 35,
+    "deliveryInfo": "Next day gift delivery"
+  },
+  {
+    "id": "personalized-leather-journal",
+    "sku": "GIFT-065",
+    "title": "Handcrafted Leather Journal with Vintage Deckle Paper",
+    "name": "Handcrafted Leather Journal with Vintage Deckle Paper",
+    "brand": "RusticTown",
+    "category": "Gifts",
+    "subcategory": "Personalised Gifts",
+    "price": 999,
+    "oldPrice": 1599,
+    "originalPrice": 1599,
+    "discountPercentage": 38,
+    "rating": 4.9,
+    "reviews": 1340,
+    "reviewCount": 1340,
+    "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=900&q=80"
+    ],
+    "badge": "Top rated",
+    "specs": [
+      "Genuine Buffalo Leather Cover",
+      "240 Pages Handmade Antique Paper",
+      "Wrap-Around Leather Strap Lock",
+      "Refillable Binding"
+    ],
+    "description": "Heirloom-quality journal hand-bound with thick antique recycled cotton paper suited for writing, calligraphy and sketching.",
+    "features": [
+      "Genuine Buffalo Leather Cover",
+      "240 Pages Handmade Antique Paper",
+      "Wrap-Around Leather Strap Lock",
+      "Refillable Binding"
+    ],
+    "specifications": {
+      "Brand": "RusticTown",
+      "Category": "Personalised Gifts",
+      "Item": "Handcrafted Leather Journal with Vintage Deckle Paper"
+    },
+    "tags": [
+      "gifts",
+      "journal",
+      "diary",
+      "leather",
+      "writing",
+      "handcrafted",
+      "under 1000"
+    ],
+    "availability": "in_stock",
+    "stock": 35,
+    "deliveryInfo": "Next day gift delivery"
+  },
+  {
+    "id": "cadbury-silk-celebrations-box",
+    "sku": "GIFT-066",
+    "title": "Cadbury Dairy Milk Silk Luxury Pralines Collection",
+    "name": "Cadbury Dairy Milk Silk Luxury Pralines Collection",
+    "brand": "Cadbury",
+    "category": "Gifts",
+    "subcategory": "Hampers",
+    "price": 850,
+    "oldPrice": 1050,
+    "originalPrice": 1050,
+    "discountPercentage": 19,
+    "rating": 4.5,
+    "reviews": 4100,
+    "reviewCount": 4100,
+    "image": "https://images.unsplash.com/photo-1549007994-cb92caebd54b?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1549007994-cb92caebd54b?auto=format&fit=crop&w=900&q=80"
+    ],
+    "badge": "Budget pick",
+    "specs": [
+      "Exquisite Pralines & Truffles",
+      "Velvety Smooth Silk Core",
+      "Festive Laser-Cut Gift Box",
+      "100% Vegetarian"
+    ],
+    "description": "Decadent box of artisan chocolate pralines coated in silky smooth milk chocolate for moments of joy and celebration.",
+    "features": [
+      "Exquisite Pralines & Truffles",
+      "Velvety Smooth Silk Core",
+      "Festive Laser-Cut Gift Box",
+      "100% Vegetarian"
+    ],
+    "specifications": {
+      "Brand": "Cadbury",
+      "Category": "Hampers",
+      "Item": "Cadbury Dairy Milk Silk Luxury Pralines Collection"
+    },
+    "tags": [
+      "gifts",
+      "chocolate",
+      "cadbury",
+      "silk",
+      "celebrations",
+      "festive",
+      "sweets",
+      "under 1000"
+    ],
+    "availability": "in_stock",
+    "stock": 35,
+    "deliveryInfo": "Next day gift delivery"
+  },
+  {
+    "id": "dry-fruits-brass-box-hamper",
+    "sku": "GIFT-067",
+    "title": "Royal Imperial Brass Box Dry Fruits Gift Hamper 500g",
+    "name": "Royal Imperial Brass Box Dry Fruits Gift Hamper 500g",
+    "brand": "Nutraj",
+    "category": "Gifts",
+    "subcategory": "Hampers",
+    "price": 1899,
+    "oldPrice": 2799,
+    "originalPrice": 2799,
+    "discountPercentage": 32,
+    "rating": 4.7,
+    "reviews": 620,
+    "reviewCount": 620,
+    "image": "https://images.unsplash.com/photo-1596547609652-9cf5d8d76921?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1596547609652-9cf5d8d76921?auto=format&fit=crop&w=900&q=80"
+    ],
+    "badge": "Best match",
+    "specs": [
+      "Jumbo California Almonds (125g)",
+      "Whole Cashews W240 (125g)",
+      "Roasted Pistachios (125g)",
+      "Afghan Black Raisins (125g)"
+    ],
+    "description": "Traditional etched royal brass keepsake container packed with premium vacuum-sealed handpicked dry fruits and nuts.",
+    "features": [
+      "Jumbo California Almonds (125g)",
+      "Whole Cashews W240 (125g)",
+      "Roasted Pistachios (125g)",
+      "Afghan Black Raisins (125g)"
+    ],
+    "specifications": {
+      "Brand": "Nutraj",
+      "Category": "Hampers",
+      "Item": "Royal Imperial Brass Box Dry Fruits Gift Hamper 500g"
+    },
+    "tags": [
+      "gifts",
+      "dry fruits",
+      "hamper",
+      "healthy",
+      "festive",
+      "brass box",
+      "wedding"
+    ],
+    "availability": "in_stock",
+    "stock": 35,
+    "deliveryInfo": "Next day gift delivery"
+  }
+]

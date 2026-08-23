@@ -1,0 +1,71 @@
+[
+  {
+    "id": "electronics",
+    "name": "Electronics",
+    "description": "Laptops, smartphones, audio devices, monitors, and tablets.",
+    "subcategories": [
+      "Laptops",
+      "Smartphones",
+      "Headphones",
+      "Monitors",
+      "Tablets",
+      "Audio"
+    ]
+  },
+  {
+    "id": "fashion",
+    "name": "Fashion",
+    "description": "Men's and women's shirts, t-shirts, denim jeans, and formal wear.",
+    "subcategories": [
+      "Shirts",
+      "T-Shirts",
+      "Jeans",
+      "Formal Wear",
+      "Hoodies"
+    ]
+  },
+  {
+    "id": "footwear",
+    "name": "Footwear",
+    "description": "Running shoes, casual sneakers, sports shoes, and formal leather shoes.",
+    "subcategories": [
+      "Running Shoes",
+      "Casual Shoes",
+      "Formal Shoes",
+      "Sports Shoes"
+    ]
+  },
+  {
+    "id": "accessories",
+    "name": "Accessories",
+    "description": "Durable backpacks, classic and smart watches, wallets, and belts.",
+    "subcategories": [
+      "Backpacks",
+      "Watches",
+      "Wallets",
+      "Smart Wearables"
+    ]
+  },
+  {
+    "id": "home-lifestyle",
+    "name": "Home & Lifestyle",
+    "description": "LED desk lamps, ergonomic office cushions, kitchen blenders, and home decor.",
+    "subcategories": [
+      "Desk Lamps",
+      "Kitchen",
+      "Home Decor",
+      "Office Essentials"
+    ]
+  },
+  {
+    "id": "gifts",
+    "name": "Gifts",
+    "description": "Curated gift sets, personalized accessories, and festive hampers.",
+    "subcategories": [
+      "Gift Sets",
+      "Personalised Gifts",
+      "Accessories",
+      "Hampers"
+    ]
+  }
+]

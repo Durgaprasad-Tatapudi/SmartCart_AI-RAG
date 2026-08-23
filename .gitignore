@@ -1,15 +1,84 @@
-# v0 sandbox internal files
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Next.js Build & Outputs
+.next/
+out/
+build/
+dist/
+.vercel/
+
+# Environment Variables & Secrets (NEVER COMMIT SECRETS)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+backend/.env
+backend/.env.local
+*.env
+!.env.example
+!backend/.env.example
+
+# Python & Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.venv/
+venv/
+ENV/
+env/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local Runtime Databases & Vector Embeddings Cache (Auto-seeded on startup)
+backend/smartcart.db
+backend/smartcart.db-journal
+backend/smartcart.db-shm
+backend/smartcart.db-wal
+backend/qdrant_storage/
+*.sqlite
+*.sqlite3
+
+# Logs & Debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS & Editor Files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# v0 Sandbox & Temporary Files
 __v0_runtime_loader.js
 __v0_devtools.tsx
 __v0_jsx-dev-runtime.ts
 .snowflake/
 .v0-trash/
-.vercel/
-
-# Environment variables
-.env*.local
-
-# Common ignores
-node_modules
-.next/
-.DS_Store

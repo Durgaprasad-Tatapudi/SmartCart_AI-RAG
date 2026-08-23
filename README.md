@@ -1,5 +1,3 @@
-# SmartCart_AI-RAG
-AI-powered multilingual shopping assistant using RAG to understand user queries, recommend relevant products, explain recommendations, and provide personalized alternatives.
 # 🛒 SmartCart – Multilingual AI-Powered Shopping Assistant
 
 SmartCart is a next-generation, AI-first e-commerce shopping consultant built with **Next.js 14**, **FastAPI**, **Qdrant Vector Database**, **FastEmbed**, and **OpenRouter LLMs**.
